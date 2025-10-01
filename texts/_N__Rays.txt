@@ -1,0 +1,1032 @@
+"N" Rays
+
+
+					Prosper-René Blondlot
+
+
+
+
+
+1905
+
+
+
+
+
+Exported from Wikisource on September 29, 2025
+
+
+
+
+
+"N" RAYS
+
+A COLLECTION OF PAPERS COMMUNICATED TO THE ACADEMY OF SCIENCES
+
+WITH ADDITIONAL NOTES AND INSTRUCTIONS FOR THE CONSTRUCTION OF PHOSPHORESCENT SCREENS
+
+BY
+
+R. BLONDLOT
+
+CORRESPONDENT OF THE INSTITUTE OF FRANCE
+
+PROFESSOR IN THE UNIVERSITY OF NANCY
+
+TRANSLATED BY
+
+J. GARCIN
+
+INGÉNIEUR E.S.E., LICENCIÉ-ÈS-SCIENCES
+
+
+
+WITH PHOSPHORESCENT SCREEN AND OTHER ILLUSTRATIONS
+
+
+
+LONGMANS, GREEN AND CO.
+
+39 PATERNOSTER ROW, LONDON
+
+NEW YORK AND BOMBAY
+
+1905
+
+
+
+All rights reserved
+
+
+
+
+
+TABLE OF CONTENTS
+
+
+
+PAGE
+
+
+
+Preliminary Notice
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+vii
+
+
+
+Introduction by the Translator
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+ix
+
+
+
+On the Polarization of "X" Rays
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+1
+
+
+
+On a New Species of Light
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+7
+
+
+
+On the Existence, in the Radiation Emitted by an Auer Burner, of Rays Transmissible Through Metals, Wood, etc.
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+13
+
+
+
+On New Sources of Radiations Transmissible Through Metals, Wood, etc., and on New Actions Produced by These Radiations
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+18
+
+
+
+On the Existence of Solar Radiations Capable of Traversing Metals, Wood, etc.
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+24
+
+
+
+On a New Action Produced by "N" Rays, and on Certain Facts Connected with These Radiations
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+28
+
+
+
+On New Actions Produced by "N" Rays; Generalization of Phenomena Already Observed
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+34
+
+
+
+On the Storing of "N" Rays by Certain Bodies
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+38
+
+
+
+On the Strengthening Action of a Beam of Light on the Eyes, When the Beam is Accompanied by "N" Rays
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+43
+
+
+
+On the Property of Emitting "N" Rays Conferred on Certain Bodies by Compression, and on the Spontaneous and Indefinite Emission of "N" Rays by Hardened Steel, Unannealed Glass, and Other Bodies in a State of Strained Molecular Equilibrium
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+48
+
+
+
+On the Dispersion of "N" Rays and on Their Wave-Length
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+53
+
+
+
+On the Photographic Registering of the Action Produced by "N" Rays on a Small Electric Spark
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+61
+
+
+
+On a New Species of "N" Rays
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+68
+
+
+
+On Peculiarities Presented by the Action Which "N" Rays Exercise upon a Dimly Lighted Surface
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+72
+
+
+
+On the Comparative Action of Heat and "N" Rays on Phosphorescence
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+74
+
+
+
+Complementary Notes
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+77
+
+
+
+Instructions for Making Phosphorescent Screens
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+79
+
+
+
+How the Action of "N" Rays Ought to be Observed
+
+
+
+................................................................................................................................................................................................................................................................................................................................................................................................
+
+82
+
+
+
+
+
+ This work is a translation and has a separate copyright status to the applicable copyright protections of the original content.
+
+
+
+Original:
+
+
+
+This work is in the public domain in the United States because it was published before January 1, 1930.
+
+
+
+* * *
+
+
+
+The longest-living author of this work died in 1930, so this work is in the public domain in countries and areas where the copyright term is the author's life plus 94 years or less. This work may be in the public domain in countries and areas with longer native copyright terms that apply the rule of the shorter term to foreign works.
+
+
+
+
+
+Translation:
+
+
+
+This work is in the public domain in the United States because it was published before January 1, 1930.
+
+
+
+* * *
+
+
+
+This work may be in the public domain in countries and areas with longer native copyright terms that apply the rule of the shorter term to foreign works.
+
+
+
+
+
+PRELIMINARY NOTICE
+
+
+
+The present volume contains the memoirs on the subject of "N" rays, communicated to the Academy of Sciences by Prof. R. Blondlot. The papers have been reprinted exactly as they were originally published in the Comptes Rendus of the Academy. The notes at the end were added later, with the object of throwing light on certain points which were obscure at the time the papers were communicated to the Academy.
+
+The title of the first memoir in this collection, "On the Polarization of 'X' Rays," will hardly cause astonishment when it is realized that the study of the "X" rays led the author to recognize the existence of radiations of a totally different character. To these he gave the name of "N" rays. Before the distinction of these two kinds of radiation was made, some confusion was bound to arise between the phenomena appertaining to each. In particular, the preliminary researches which the author had made[1] on the velocity of propagation of "X" rays apply in reality not to "X" rays, but to "N" rays. He had found that the velocity of propagation was the same as that of Hertzian waves, and consequently of light. Since the properties of "N" rays, taken in their entirety, do not leave any doubt that these rays are a variety of light, this determination of their velocity is nothing more than a verification of an assured fact. Nevertheless, this verification seemed not altogether superfluous; it proves at least that the experiments have been carried out with care.
+
+
+
+↑ Comptes Rendus, t. cxxv. pp. 666, 721, 763.
+
+
+
+
+
+* * *
+
+
+
+
+
+INTRODUCTION BY THE TRANSLATOR
+
+
+
+In writing this English version of Blondlot's communications to the French Academy, the translator's constant endeavour has been to preserve that simplicity and straightforwardness which render the original a model of scientific exposition. That this object has been attained he will not venture to assert, but he hopes that, at any rate, the reader will be enabled to follow the successive stages of thought in the mind of the discoverer as he progresses from experiment to experiment in a hitherto unexplored domain. If this hope be fulfilled, the book will be welcome not only to those who desire to make acquaintance with "N" rays, but also to all lovers of scientific research, as well as to beginners who wish to attain to scientific methods.
+
+The translator has to thank sincerely Professor Reinold, who has been kind enough to revise the translation, and suggest several valuable improvements.
+
+
+
+
+
+"N" RAYS
+
+On the Polarization of "X" Rays (Feb. 2, 1903).
+
+Note 1.
+
+
+
+Hitherto the attempts made to polarize "X" rays have remained fruitless. I asked myself whether "X" rays emitted by a focus tube are not polarized as soon as emitted. I was led to put to myself this question by considering that the conditions of asymmetry which should exist for the polarization of such rays are in this case exactly satisfied. For each ray is generated from a cathode ray, and the two rays define a plane; thus, through each ray emitted by the tube a plane passes, in which, or normally to which, the ray may well have special properties, this being, in fact, an asymmetry characteristic of polarization. Now, if this polarization exists, how can the fact be ascertained? It struck me that a small spark, such as I used in my researches on the velocity of propagation of "X" rays, might perhaps in this case play the part of analyzer, inasmuch as the properties of a spark may be different in the direction of its length, which is also that of the electric force producing it, and in directions normal to its length. Starting from this, I arranged an apparatus as shown in the accompanying diagram, so as to obtain a small spark during the emission of "X" rays.
+
+A focus tube is connected to an induction-coil by wires BH, B'H', covered with gutta-percha (Fig. 1). Two other wires, also covered with gutta-percha, AIc and A'I'c', terminate at A and A' in two loops, which surround BH and B'H' respectively; a bit of glass tubing, not shown in the figure, keeps each loop separate from the wire which it surrounds. The wires AI, A'I are then twisted together, and their sharply pointed ends, c and c', are fixed opposite each other, at a very small distance, adjustable at will, so as to form a small spark-gap. By virtue of this disposition, the electrostatic influence exercised by the wires BH and B'H' on the loops A and A' produces
+
+at each break of the current in the coil a small spark at the gap cc', at the same time as "X" rays are being emitted by the tube. Owing to the flexibility of wires, AIc, A'I'c', the straight line cc', along which the spark occurs, can be set in any direction we please. A sheet of aluminium foil, 40 cms. square, is interposed between the tube and the spark, so as to prevent any direct influence of the electrodes of the tube on cc'. In order to define easily the relative positions of the tube and the spark cc', take three rectangular axes, of which one, Oz, is vertical.
+
+Fix the focus tube so that its length, and, consequently, the pencil of cathode rays, coincides with OY, the anticathode being placed near the origin, and sending "X" rays in the positive direction of OX.
+
+Place the gap cc' at a point on the positive side of OX, so that its direction is parallel to OY. The spark being properly regulated one observes that the "X" rays act upon it in such a way as to increase its luminosity, for the interposition of a sheet of lead or glass manifestly diminishes the brightness.
+
+
+
+Now, without altering the position of the gap, turn it so that it comes parallel to OZ, i.e. normal to the cathode rays. The influence of the "X" rays on the spark is then seen to disappear, and the interposition of a lead or glass plate causes no change in its brightness.
+
+"X" rays have therefore a plane of action, which is the one passing through each "X" ray and the cathode ray which gives rise to it. If the direction given to the spark-gap is intermediate between the two above mentioned, the action is seen to diminish from the horizontal position to the vertical.
+
+The following is another experiment, still more striking: if the spark is made to turn about OX, parallel to plane YOZ, the spark is seen to pass from a maximum brightness when horizontal to a minimum when vertical. These variations of brightness are similar to those observed when a pencil of polarized rays traverses a rotating Nicol's prism, the small spark playing the part of analyzer. The pencil of "X" rays presents the same asymmetry as a pencil of polarized light. According to Newton's definition, it has sides differing from each other; in other words, it is polarized in the complete sense of the term.
+
+The phenomenon is easy to observe when the spark is well regulated; this means that the spark must be very small and faint.
+
+If the focus tube is made to turn about its axis, which is parallel to the cathode rays, the observed phenomena do not change, so long as "X" rays reach the gap. The plane of action is thus independent of the orientation of the anticathode, being always the plane passing through the "X" rays and the generating cathodic rays.
+
+The spark being kept in this plane, and turned round from the position in which it is at right angles to the "X" rays to that in which it is parallel to them, we observe that the effect of the "X" rays on the brightness of the spark is a maximum in the first position, and diminishes to nothing in the second.
+
+Now, an "X" ray and its generating cathodic ray only determine a plane when their directions are different. Again, amongst the emitted "X" rays, some are in a direction very nearly the same as that of the cathode rays, being those which graze the cathode. One should expect these to be very incompletely polarized; and, indeed the small spark enabled me to confirm this.
+
+I noted several important facts, which, however, I will merely allude to in the present paper. Quartz and lump-sugar rotate the plane of polarization of "X" rays in the same sense as that of light. I obtained rotations of 40°.
+
+Secondary rays, styled "S" rays, are also polarized. Active substances rotate the plane of polarization of these rays in a sense contrary to that of light. I observed rotations of 18° (note 2).
+
+It is extremely likely that magnetic rotation also exists for "X" rays as well as for "S" rays. One can also surmise that the properties of these rays, with reference to polarization, extend to tertiary rays, etc. I intend shortly to publish the results at which I have arrived concerning these different points.
+
+
+
+
+
+On a New Species of Light (March 23, 1903).
+
+
+
+The radiations emitted by a focus tube are filtered through a sheet of aluminium foil or a screen of black paper, in order to eliminate the luminous rays which might accompany them. While studying these radiations by means of their action on a small spark, I discovered that they are plane-polarized as soon as emitted. I further proved that when these radiations traverse a plate of quartz in a direction at right angles to its axis, or a lump of sugar, their plane of action undergoes a rotation just like the plane of polarization of a pencil of light (see pp. 5 and 6).
+
+I then asked myself if a rotation could also be obtained by passing the radiations of the focus tube through a pile of Reusch mica sheets. I observed, in fact, a rotation of from 25° to 30° in the same direction as that of polarized light. This action of a pile of micas made me at once infer that a single sheet of mica must act, and that this action must be depolarization, or, rather, the production of elliptic polarization; this is indeed what occurs. The interposition of a sheet of mica, set so that its axis makes an angle of 45° with the plane of action of the radiations emitted by the tube, destroys their rectilinear polarization, for their action on a small spark remains sensibly the same, whatever be the direction of the spark-gap. If a second sheet of mica is interposed, identical with the first, so that the axes of the two sheets are perpendicular to each other, rectilinear polarization is re-established. This result can also be obtained by the use of a Babinet's compensator. Consequently, we are dealing with elliptic polarization.
+
+Now, if the sheet of mica changes rectilinear into elliptic polarization, such a sheet must be doubly refractive for the radiations thus transformed. But if double refraction exists, a fortiori simple refraction must exist; and I was thus led to examine whether, in spite of the fruitless attempts to discover the refraction of "X" rays, I could not obtain a deviation by a prism. I then arranged the following experiment: a focus tube sends through an aluminium screen a pencil of rays, limited by two vertical slits cut in two parallel sheets of lead, 3 mms. thick. The small spark is placed on one side of the pencil at such a distance that it cannot be reached, even by the penumbra; this is ascertained by proving that the interposition of a sheet of lead causes no diminution of its brightness. Now let us interpose in the pencil an equilateral quartz prism, with refractive edge on the side away from the spark. If the prism is properly set, the spark becomes much more brilliant; when the prism is removed, the spark reverts to its former faintness. This phenomenon is certainly due to refraction, for if the setting of the prism is altered, or if the prism is replaced by a plate of quartz, no effect is observed. The experiment may also be carried out in a different manner: the pencil is first made to impinge directly on the spark, then it is deviated by means of the prism, and the brightness of the spark wanes. If, now, the spark is moved laterally towards the base of the prism, it recovers its previous brightness, proving that the rays in question have been deviated in the same sense as rays of light.
+
+Refraction being thus proved, I at once sought to concentrate the rays by means of a quartz lens. The experiment is unattended with difficulty. An image of the anticathode is obtained, extremely well-defined as to size and distance by a heightened glow of the small spark.
+
+The existence of refraction rendered that of regular reflection extremely probable; as a matter of fact, regular reflection does take place. By means of a quartz lens, or a lens formed by a very thin horn envelope filled with turpentine, I produce a conjugate focus of the anticathode; then I intercept the emerging pencil by a sheet of polished glass, placed obliquely; I then obtain a focus exactly symmetrical, in respect to the plane of reflection, with the one which existed before the glass was interposed. With a plate of ground glass there is no regular reflection, but diffusion is observed.
+
+If one half of a lamina of mica is roughened, the polished half lets pass the radiations, and the other half stops them (note 3).
+
+This allows of the repetition of the refraction experiments under much more precise conditions, by the use of Newton's arrangement for obtaining a pure spectrum.
+
+From all that precedes, the fact results that the rays which I have thus studied are not Röntgen rays, since these undergo neither refraction nor reflection. In fact, the little spark reveals a new species of radiations emitted by the focus tube, which traverse aluminium, black paper, wood, etc. These are plane-polarized from the moment of their emission, are susceptible of rotatory and elliptic polarization, are refracted, reflected, diffused, but produce neither fluorescence nor photographic action.
+
+I had expected to find that amongst these rays some existed whose refractive index for quartz is about 2; but probably quite a spectrum of such rays exists, for in the refraction experiments with a prism, the deviated pencil appears to cover a broad angle. The study of this dispersion remains to be pursued, as well as that of the wave-lengths of the rays.
+
+By progressively diminishing the intensity of the current actuating the induction-coil, one still gets these new rays, even when the tube no longer produces any fluorescence, and is itself absolutely invisible in the dark. They are fainter, however, in this case. They can also be produced continuously by means of an electric machine giving a spark a few millimetres in length.
+
+At first I had attributed to Röntgen rays the polarization which in reality belongs to the new rays, a confusion which it was impossible to avoid before having observed the refraction, and it was only after making this observation that I could with certainty conclude that I was not dealing with Röntgen rays, but with a new species of light.
+
+It is interesting to collate these remarks with the view expressed by M. Henri Becquerel, that in certain of his experiments "manifestations identical with those giving refraction and total reflection of light may have been produced by luminous rays which had traversed aluminium" (see Comptes Rendus, t. xxxii., March 25, 1901, p. 739).
+
+
+
+
+
+On the Existence, in the Rays emitted by an Auer Burner, of Radiations which traverse metals, wood, etc. (May 11, 1903).
+
+
+
+A focus tube emits, as I have already proved (see p. 7), certain radiations susceptible of traversing metals, black paper, wood, etc. Amongst these, there are some for which the index of refraction of quartz is nearly 2. On the other hand, the index of quartz for the rays remaining from rock-salt, discovered by Professor Rubens, is 2.18. This similarity of indices led me to think that the radiations observed in the emission of a focus tube would very likely be near neighbours of the rays discovered by Rubens, and that, consequently, they would be met with in the radiation emitted by an Auer burner, which is the source of such rays. I accordingly made the following experiment : an Auer burner is enclosed in a kind of lantern of sheet-iron, completely enclosed on all sides, with the exception of openings for the passage of air and combustion gases, which are so arranged that no light escapes; a rectangular orifice, 4 cms. wide and 6.5 cms. high, cut in the iron at the same height as the incandescent mantle, is closed by a sheet of aluminium 1 mm. thick. The chimney of the Auer burner is of sheet-iron, and a slit 2 mms. wide and 3.5 cms. high is cut in it, opposite the mantle, so that the emerging luminous pencil is directed on the aluminium sheet. Outside the lantern, and in front of this sheet, a double-convex quartz lens is placed, having 12 cms. focal length for yellow light, behind which is a spark-gap of the kind already described, giving very small sparks. The spark is produced by a small induction-coil, provided with a rotating make and break device, which works with perfect regularity.
+
+The distance p of the lens from the slit being 26.5 cms., one notes, by help of the spark, the existence of a focus of very great sharpness at a distance, p', of about 13.9 cms. For at this point the spark exhibits a notably greater glow than at the neighbouring points, whether in front or behind, above or below, to the right or to the left. The distance of this focus from the lens can be determined within 3 or 4 mms. The interposition of a sheet of lead or glass 4 mms. thick causes this action to disappear. By varying the value of p, other values of p' are obtained, and substituting these values in the lens formula, the number 2.93 is obtained for the refractive index, being the mean value derived from a series of determinations as concordant as the precision of such observations could entitle one to expect. Similar experiments, made with another quartz lens, having a focal length of 33 cms. for yellow light, gave for the index the value 2.942.
+
+While pursuing these experiments, I ascertained the existence of three other species of radiations, for which the index of quartz has values 2.62, 2.436, 2.29 respectively. These indices are all greater than 2, which explains the following fact: if in the path of the rays emerging from the lens a quartz prism of 30° refractive angle is placed, in such a way as to receive these rays in a direction sensibly normal to one of the refracting faces, no refracted pencil is obtained.
+
+The radiations from an Auer burner, transmitted through an aluminium sheet, are reflected by a polished plate of glass in conformity with the laws of regular reflection, and are diffused by a plate of ground glass.
+
+These radiations traverse all the substances whose transparency I tested, with the exception of rock-salt 3 mms. thick (note 4), platinum 4 mms. thick, and water. A slip of cigarette paper, which is completely transparent when dry, becomes absolutely opaque when wetted with water. Figs. 2 and 3 are reproductions of the impression made in four seconds on a sensitive plate, without any photographic apparatus, before and after wetting the sheet of paper interposed between the lens and the spark. The photo-engraving, produced from a paper print, shows that in the first case the spark is notably brighter.
+
+These photographic prints are produced by the spark influenced by the rays, and not by the rays themselves, these latter producing no appreciable photographic effect after an hour's exposure.
+
+Amongst the bodies which are traversed, I
+
+may mention tinfoil, sheets of copper and brass 0.2 mm. thick, a sheet of aluminium 0.4 mm. thick, a steel lamina 0.05 mm. thick, a silver leaf 0.1 mm. thick, a paper booklet, containing twenty-one gold leaves, a glass sheet, 0.1 mm. thick, a sheet of mica of 0.15 mm., a plate of Iceland spar of 0.4 mm., a block of paraffin of 1 cm., a beech board 1 cm., a plate of ebonite of 1 mm., etc. Fluor spar is but slightly transparent with a thickness of 5 mms., similarly sulphur 2 mms. thick, and glass 1 mm. thick. These results I only give as a first indication, for when they were obtained, the co-existence of four different species of radiations, which may have very different properties, was not taken into account (note 5). It will be highly interesting to investigate whether other sources, and in particular the sun, do not emit analogous radiations to those we are dealing with in the present communication, and also whether the latter produces any calorific action (note 6).
+
+Now, ought these radiations in reality to be considered as akin to the large wave-length radiations discovered by Professor Rubens? Their common origin in the emission of an Auer burner is favourable to such a view, as is also the opacity of rock-salt and of water. But on the other hand, for Auer rays, the transparency of metals and other substances opaque to Rubens' rays constitute an apparently radical difference between the two sorts of radiations (note 7).
+
+
+
+
+
+On New Sources of Radiations capable of traversing Metals, Wood, etc., and on New Actions produced by these Radiations (May 25, 1903).
+
+
+
+While investigating whether radiations analogous to those whose existence I recorded in the emission from an Auer burner (see p. 13) are not to be met also in other sources of light and heat, I established the following facts: the flame of an annular gas-burner emits such radiations; the chimney, however, should be removed, on account of the absorption of the rays by glass. A Bunsen burner scarcely produces any. A piece of sheet-iron or silver, heated to dull redness by a Bunsen burner, placed behind them, gives off rays at about the same rate as an Auer burner.
+
+A plate of polished silver was arranged so that its plane made an angle of 45° with the horizontal plane. This plate having been heated to cherry-red by a Bunsen burner, its upper face emitted rays analogous to those of an Auer burner. A horizontal pencil of these rays, after traversing two sheets of aluminium of 0.3 mm. total thickness, sheets of black paper, etc., was concentrated by a quartz lens; with the aid of the small spark, the existence of four focal regions was ascertained. I further found that the action on the spark was much more pronounced when the spark was arranged vertically — that is, in the plane of emission — than when it was normal to this plane. The new radiations emitted by the polished plate are therefore polarized, as are the light and heat emitted at the same time. The silver plate having been covered with lampblack, the intensity of emission increased, but the polarization disappeared.
+
+
+
+The foregoing leads one to think that the emission of radiations susceptible of traversing metals, etc., is an extremely general phenomenon. First observed in the emission of a focus tube, it was also met in that of ordinary sources of light and heat. For shortness, I will henceforward designate these rays by the name of "N" rays.[1]
+
+I would draw attention to the fact that these "N" rays comprise a very large variety of radiations; for while those which issue from an Auer burner have refractive indices greater than 2, there are others, amongst those emitted by a Crookes' tube, whose index is inferior to 1.52, for if a pencil of these rays is made to impinge on an equilateral quartz prism, parallel to the edges and normal to one of the faces, an emerging pencil is obtained which is very much spread out.
+
+Up to this time the only means of detecting the presence of "N" rays was by their action on a small spark. I asked myself if the spark should in this case be considered as an electric phenomenon, or only as producing incandescence like a small gaseous mass. If this latter supposition were correct, the spark could be replaced by a flame. I then produced a quite small flame of gas at the extremity of a metal tube having a very small orifice. This flame was entirely blue. I ascertained that the flame could be used to reveal the presence of "N" rays just like the spark; for when it receives these rays, it becomes whiter and brighter in just the same way. Its variations in glow allowed of four foci being found in a pencil which had passed through a quartz lens; these foci are the same as those detected with the small spark. The small flame behaves therefore, in regard to "N" rays, just like the spark, save that it does not allow of the observation of polarization phenomena.
+
+In order to study more easily the variations in glow, whether of flame or spark, I examine them through a plate of ground glass, about 25 or 30 mms. distant. In this way one obtains, instead of a very small, brilliant point, a luminous patch of about 2 cms. diameter, of much less luminosity, whose variations can be far better appreciated by the eye.
+
+The action of an incandescent body on a flame, or that of a flame on another flame, is certainly a common phenomenon. If it has remained unnoticed up to the present, it is because the light of the source prevented the observation of the variations in glow of the receiving flame.
+
+Quite recently I observed another effect of the "N" rays. It is true that these rays are unable to excite phosphorescence in bodies which can acquire this property under the action of light, but when such a body—calcium sulphide, for instance—has previously been rendered phosphorescent by exposure to sunlight, if it is then exposed to "N" rays—for instance, to one of the foci produced by a quartz lens—the phosphorescent glow is observed to increase in a very marked fashion; neither the production nor the cessation of this effect appear to be absolutely instantaneous. Of all the actions producing "N" rays, this is the one which is most easily observed. The experiment is an easy one to set up and to repeat. This property of "N" rays is analogous to that of the red and infra-red rays discovered by Edmond Becquerel. It is also analogous to the action of heat on phosphorescence. Nevertheless, I have not noticed as yet an increased rate of exhaustion of the phosphorescent capacity under the action of "N" rays (see p. 74).
+
+The kinship of "N" rays with known radiations of large wave-length seems a certain fact. As, on the other hand, the property possessed by these rays of traversing metals differentiates them from all known radiations, it is very probable that they are comprised in the five octaves of the series of radiations, hitherto unexplored, between the Rubens rays and electro-magnetic oscillations of very small wave-length. This is what I propose to verify (note 8).
+
+
+
+↑ From the name of the town of Nancy, these researches having been made at the Nancy University. In conformity with a usage which has become established, I now employ the letter "N" instead of "n," which I had at first adopted.
+
+
+
+
+
+* * *
+
+
+
+
+
+On the Existence of Solar Radiations capable of traversing Metals, Wood, etc. (June 15, 1903).
+
+
+
+I have recently proved that the majority of artificial sources of light and heat emit radiations which are able to traverse metals and a great number of bodies, opaque in regard to the spectral radiations hitherto known (see p. 18). It was desirable to ascertain whether radiations analogous to the former—which, for brevity, I call "N" rays—are also emitted by the sun.
+
+As I have shown, "N" rays act on phosphorescent substances by heightening or stimulating the pre-existing phosphorescence, an action similar to that of red and infra-red rays discovered by Edmond Becquerel (see p. 74). I utilized this phenomenon to find out whether the sun sends us "N" rays.
+
+A completely enclosed dark room has one window exposed to the sun. This is shut by interior, opaque panels of oak, 15 mms. thick. Behind one of these panels, at any distance—1 metre, for instance—a thin glass tube is placed, containing a phosphorescent substance, say calcium sulphide, which has been previously exposed for a short time to solar rays. If, now, on the path of the solar rays, which are supposed to reach the tube through the wood, a sheet of lead, or the hand simply, is interposed, even at a great distance from the tube, the phosphorescent glow is seen to diminish; when the obstacle is removed, the glow reappears. The extreme simplicity of this experiment will incite many persons, I hope, to repeat it. The only precaution one need take is to operate with a feeble preliminary phosphorescence (note 9). It is advantageous to arrange permanently a sheet of black paper, so that the interposition of the screen does not change the background on which the tube stands out. The variations in glow are especially easy to catch near the contours of the luminous patch formed by the phosphorescent body on the dark background; when the "N" rays are intercepted, these contours lose their sharpness, regaining the same when the screen is removed. However, these variations in glow do not appear to be instantaneous. Interposing between the shutter and the tube several sheets of aluminium, cardboard, or an oak board 3 cms. thick, does not hinder the phenomenon; any possibility of an action of radiated heat, as such, is consequently excluded. A thin film of water completely arrests the rays; light clouds passing over the sun considerably diminish their action.
+
+The "N" rays emitted by the sun can be concentrated by a quartz lens; by means of the phosphorescent substance, the existence of several foci is ascertained. I have not yet determined their positions with sufficient precision to speak of them here. The "N" rays of sunlight undergo regular reflection by a polished plate of glass, and are diffused by ground glass.
+
+The "N" rays issuing from the sun increase the glow of a small spark and a small flame in the same manner as those emitted by a Crookes' tube, by a flame, or by an incandescent body. These phenomena are easy to observe, especially if use is made of an interposed sheet of ground glass, as indicated by me in a preceding communication. The use of a small flame is by far the most convenient and precise of all processes for determining the position of the foci. Operating with the small spark is much harder, because the spark is rarely very regular.
+
+I feel bound to reproduce, textually, here a passage in a letter which M. Gustave le Bon has done me the honour of writing—
+
+"M. Gustave le Bon had indicated, as far back as seven years ago, that flames emit, independently of the radio-active emanations since observed by him, radiations of large wave-length, capable of traversing metals, and to which he had given the name of black light; but while assigning these a place intermediate between light and electricity, he had not exactly measured their wave-length, and the method he had employed to reveal their presence was very uncertain."
+
+The method referred to was the photographic method. Personally, I have not been able to obtain any photographic effect of the rays I have studied (see p. 16).
+
+
+
+
+
+On a New Action produced by "N" rays, and on Several Facts connected with these Radiations (July 20, 1903).
+
+
+
+The action of "N" rays on a small flame gave me the idea of trying whether they did not exercise an analogous action on a solid incandescent body. For this purpose a platinum wire, about 0.1 mm. diameter and 15 mms. long, was heated to dull redness by an electric current. A pencil of "N" rays, emitted by an Auer burner, was directed through wood and aluminium screens on this wire, and was concentrated by a quartz lens.
+
+The wire was observed through a plate of ground glass, fixed to the same support as the wire itself, and about 3 cms. in front of it. On displacing the wire, several foci were found, just as with other processes employed to detect "N" rays. The wire being placed at one of these foci, the luminous patch on the ground glass is seen to diminish in brightness when a lead screen, or merely the hand, is interposed; when the obstacle is removed, the light resumes its former brightness. These actions do not appear instantaneous.
+
+I have generalized the former experiments by employing, instead of a wire heated by an electric current, a sheet of platinum 0.1 mm. thick, inclined at 45° on the horizontal plane, partially heated to a dark red by a small gas flame placed underneath. A horizontal pencil of "N" rays, concentrated by a lens, was made to impinge on the under face of the sheet, so as to produce a focus at the heated spot; on the upper face the incandescent patch was observed without interposing ground glass. The variations in brightness are exactly analogous to those of the wire. When observing, through ground glass, the intensity of illumination of the bottom face of the sheet, due to the rays and the flame together, quite similar variations are found. Further, the same results are obtained if, instead of making the rays fall on the lower face, or the side on which the flame acts directly, they are directed upon the upper face.
+
+The different effects produced by "N" rays, viz. their action on a spark or flame, and on phosphorescent or incandescent bodies, would lead to the supposition that they might also have a heating effect on the bodies subjected to their action. To test the matter experimentally, I installed a thermopile of Rubens' connected to an enclosed galvanometer. The action of "N" rays on this apparatus was absolutely nil, even in the most favorable conditions, though a candle placed 12 metres away from the thermopile gave a deflection of about 0.5 mm. on the scale. I conducted the experiment not only with "N" rays proceeding from an Auer burner, but also with those from the sun on the 3rd of July, 1904, at midday. The rays were very intense, for when I placed in front of the thermopile a tube containing calcium sulphide, which had been feebly excited by exposure to the sun, its glow was greatly increased, but was diminished by the interposition of a lead screen or the hand. M. H. Rubens made the same observation, as he was kind enough to write me, his apparatus being much more sensitive even than mine. I nevertheless thought it useful to determine directly whether the incandescent platinum wire was not heated by the action of "N" rays. To this end, I had recourse to the study of its electric resistance. The current flowing through the wire is produced by five accumulators; with the aid of high-resistance rheostats, the intensity is adjusted to make the platinum wire a dull red. The wire is stretched between two massive brass pliers, A and B, which are connected to the terminals of a capillary electrometer; on one of the connecting wires an adjustable electromotive force is inserted, obtained by shunting a portion of the circuit of an auxiliary battery. This electromotive force is regulated so that the electrometer is at zero. Every variation in resistance of the platinum wire produces a deviation of the electrometer. Now, with "N" rays playing on the wire, no deviation of the meniscus was observed. The interposition of a lead or wet-paper screen remained without effect on the electrometer, though the wire underwent the usual variations in brightness. This certainly proves that "N" rays do not raise its temperature. I, moreover, assured myself that the method was sufficiently sensitive by the following experiments; by means of a wire rheostat, an assistant varied the resistance of a circuit containing the platinum wire and the accumulators, and consequently the strength of the current, but not sufficiently for the observer to perceive a variation in the glow of the wire. In spite of this, the electrometer was deflected three divisions of the micrometer in the eye-piece. The following is another verification: raising the temperature of the wire one degree would alter its resistance in the ratio of about 1.004 to one; the difference of potential between A and B would alter in about the same ratio, since, the resistance external to the wire being very great, the current strength does not change. In my experiments this variation would deflect the electrometer by fifteen divisions. As absolutely no deviation occurred, and as, moreover, a quarter of a division could have been easily observed, the rise in temperature is certainly very inferior to of a degree, and, consequently, quite insufficient to produce the observed increase in glow. It is thus super-abundantly established that the increase in glow produced by the rays is not due to a rise in temperature.
+
+In the experiments with a plate of platinum, mentioned above, the increase in glow was apparent on the two faces of the sheet. Given that there is no rise in temperature, this seems paradoxical; for since "N" rays do not go through platinum, it seemed as if the action should only appear on the side exposed to these rays. To reconcile these results, it was necessary to suppose that "N" rays, which do not traverse cold platinum, traverse it when incandescent. I then reverted to the apparatus which was destined to show the action of "N" rays on a small flame, and behind the quartz lens I arranged a platinum sheet larger than the lens. The interposition of a lead screen between the platinum and the source produced no effect on the small flame, which verifies the opacity of platinum. The plate being then heated to redness, interposing the screen was seen to diminish the glow of the small flame. "N" rays issuing from an Auer burner traverse therefore incandescent platinum.
+
+
+
+
+
+On New Actions produced by "N" rays—Generalization of the Phenomena already observed (November 2, 1903).
+
+
+
+When a pencil of "N" rays is directed either on a small spark, flame, or a phosphorescent substance previously exposed to the sun's rays, or, again, to a platinum plate heated to dull redness, the light emitted by these various sources is seen to increase in glow. In these experiments, one operates on sources emitting light spontaneously. I asked myself whether one could not generalize these experiments by using a body not emitting light itself, but reflecting that which reaches it from an external source. I consequently carried out the following experiment: a slip of white paper, 15 mms. long and 2 mms. broad, is fixed vertically to a wire holder; the room being made dark, the slip is dimly lighted by projecting laterally on it a pencil of light, emitted by a small flame shut up in a box, in which a vertical slit is pierced.
+
+On the other hand, the rays are produced by the following contrivance: an Auer burner, provided with a sheet-iron chimney, in which a rectangular orifice, 60 mms. high and 25 mms. broad, has been cut, is enclosed in an iron lantern pierced with an opening placed in front of the chimney orifice, and stopped up by a plate of aluminium. In front of this window the small slip of paper is placed, illuminated in the manner indicated above. If, now, the rays are intercepted by interposing a sheet of lead or the hand, the small paper rectangle is seen to darken, and its contours to lose their sharpness; the light diffused by the slip of paper is thus increased by the action of "N" rays.
+
+The following idea then presented itself: the diffusion of light is a complex phenomenon, in which the elementary fact is regular reflection, and consequently there is reason for ascertaining experimentally whether the reflection of light is, or is not, modified by the action of "N" rays. For this purpose, a polished steel knitting-needle was fixed vertically in place of the slip of paper of the former experiment; at the same time, in a box completely closed, with the exception of a vertical slit cut at the same height as the Auer burner, and stopped up by transparent paper, a flame was disposed so as to light up the slit. By suitably placing the eye and the slit, the image of this latter is seen formed by reflection on the steel cylinder, and simultaneously the reflecting surface is receiving the "N" rays. It was then easy to observe that the action of these rays reinforces the image, for if they are intercepted, the image darkens, and turns to a reddish hue. I repeated this experiment with the same success by employing, instead of the knitting-needle, a plane mirror of bronze.
+
+The same result is again obtained by reflecting the light on the polished face of a block of quartz. However, when the "N" rays fall normally on the refracting face, their action on reflected light disappears, whatever be the incidence of this light, whether it be that their action becomes zero, or simply inappreciable. In order that the light reflected by the quartz may be reinforced by the "N" rays, it is not necessary that the rays should be directed towards the interior of the quartz; the action still occurs when the "N" rays traverse the reflecting surface from the inside towards the outside.
+
+All these actions of "N" rays on light require an appreciable time-interval for appearing and disappearing. I was unable, although I varied the experiment in a great many ways, to observe any action of "N" rays on the refracted light.
+
+I will here make the following general remark concerning the observation of "N" rays. The aptitude for catching small variations in luminous intensity is very different in different persons; some see from the outset, and without any difficulty, the reinforcing action produced by "N" rays on the brightness of a small luminous source; for others, these phenomena lie almost at the limit of what they are able to discern, and it is only after a certain amount of practice that they succeed in catching them easily, and in observing them with complete certainty. The smallness of the effects and the delicacy of their observation must not deter us from a study which puts us in possession of radiations hitherto unknown. I have recently observed that the Auer burner can be advantageously replaced by the Nernst lamp, without a glass, this lamp giving more intense "N" rays. With a 200-watt lamp, the phenomena are marked enough to be, in my belief, easily visible to any one at the first trial.
+
+
+
+
+
+On the Storing-up of "N" rays by Certain Bodies (November 9, 1903).
+
+
+
+In the course of my researches on "N" rays, I had occasion to note a very remarkable fact. The "N" rays were produced by an Auer burner enclosed in a lantern, and after passing through one of the sides of the lantern, formed by a sheet of aluminium, were concentrated by a quartz lens upon phosphorescent calcium sulphide.[1] The Auer burner having been extinguished and removed the phosphorescent glow, to my great surprise, remained almost as strong as ever, but was darkened by the interposition of lead, or wet paper, or the hand, between the lantern and the sulphide. Nothing was altered by the suppression of the Auer burner, except that the observed actions grew progressively weaker. At the end of twenty minutes they still existed, but were scarcely noticeable.
+
+Studying closely the circumstances of the phenomenon, I was not long in recognizing that the quartz lens had itself become a source of "N" rays; for when this was removed, all action on the sulphide ceased, whereas if it was brought nearer the sulphide, even laterally, the latter would become more luminous. I then took a quartz plate 15 mms. thick, whose surface formed a square of 5-cm. sides, and exposed this to the "N" rays emitted by an Auer burner through two sheets of aluminium and some black paper. It became as active as the lens; when brought nearer the sulphide, it seemed, according to Bichat's expression, as if a veil darkening it was being removed. A still more marked effect was obtained by interposing the quartz plate between the source and the sulphide, quite close to the latter.
+
+In these experiments, the secondary emission by the quartz is added to the "N" rays directly emanating from the source. This secondary emission has, indeed, its origin in the whole mass of the quartz, and not at the surface only, for if several plates of quartz be successively placed on top of each other, the effect is seen to increase with each added plate. Iceland spar, fluor spar, barite, glass, etc., behave like quartz. The filament of a Nernst lamp remains active for several hours after the lamp is extinguished.
+
+A piece of gold, laterally brought near to the sulphide while it is being subjected to "N" rays, increases its glow (note 10); lead, platinum, silver, zinc, etc., produce the same effects. These actions persist after the extinction of "N" rays, as in the case of quartz. Nevertheless, the property of secondary ray emission only permeates slowly through a metallic mass. Thus, if one of the faces of a sheet of lead 2 mms. thick has been exposed to "N" rays for several minutes, this face alone shows activity; an exposure of several hours is necessary for the activity to reach the opposite face.
+
+Aluminium, wood, dry or wet paper, and paraffin do not enjoy the property of storing "N" rays. Calcium sulphide, on the other hand, does possess this property. When I put a few grams of sulphide in an envelope, and then exposed the envelope to "N" rays, I found that its proximity was sufficient to reinforce the phosphorescence of a small mass of previously excited sulphide. This property explains a constant peculiarity that I have previously set forth, viz. that the increase of phosphorescence under the action of "N" rays takes an appreciable time whether to appear or to disappear. For, thanks to the storing-up of the "N" rays, the different parts of a mass of sulphide mutually reinforce their phosphorescence; but since, on the one hand, this reinforcing is progressive, as I have directly proved, and since, on the other hand, the stored-up provision is not immediately exhausted, the result is that when "N" rays are made to fall on phosphorescent calcium sulphide, their effect must increase slowly, and that when they are suppressed, their effect can only disappear slowly.[2]
+
+Pebbles picked up at about four o'clock p.m., in a yard where they had been exposed to the sun, spontaneously emitted "N" rays; bringing them near a small mass of phosphorescent sulphide was sufficient to increase its luminosity. Fragments of calcareous stone, brick, etc., picked up in the same yard, produced analogous actions.
+
+The activity of all these bodies still persisted after four days, without any sensible diminution. It is, however, necessary for the manifestation of such actions that the surface of these bodies should be quite dry; for we know that the thinnest layer of moisture is sufficient to arrest "N" rays. Vegetable earth was found to be inactive, doubtless on account of its moisture; pebbles taken from several centimetres underneath the surface of the soil were inactive, even after being dried.
+
+
+
+The phenomena of the storing-up of "N" rays, which are the object of the present note, ought naturally to be compared with those of phosphorescence; yet they present a quite distinct feature, as I intend to show shortly.
+
+
+
+↑ This sulphide was tightly packed into a slit cut into a sheet of cardboard 0.8 mm. thick; the width of the slit was 0.5 nd its length 15 mm. After exposure to sunlight, a small, luminous source is thus obtained, which is very sensitive to "N" rays.
+
+↑ I repeat here that, as a rule, when experimenting with "N" rays, it is advantageous to replace the Auer burner by a Nernst lamp absorbing about 200 watts.
+
+
+
+
+
+* * *
+
+
+
+
+
+On the Strengthening Action of a Beam of Light on the Eyes, when the Beam is accompanied by "N" Rays (November 23, 1903).
+
+
+
+While studying the storing-up of "N" rays by different bodies, I had occasion to observe an unexpected phenomenon. My eyes were fixed on a small slip of paper, dimly lighted, distant about i metre from me; a brick, one of whose faces had been sun-exposed, having been brought near laterally to the luminous pencil, with its sun-exposed face turned towards me, and a few decimetres distant from my eyes, I saw the slip assume a heightened glow; when the brick was removed, or when its non-exposed face was turned towards me, the paper grew darker. To remove all possibility of illusion, I arranged permanently a box closed by a cover and wrapped in black paper; in this completely enclosed box the brick was placed, and, in this manner, the dark background on which the slip stood out remained rigorously invariable, but the observed effect remained the same. The experiment can be varied in different ways. For instance, the laboratory shutters being almost closed, and the dial of the clock fixed to a wall which was just sufficiently lighted for the dial, at a distance of 4 metres, to be just perceived as a grey patch with no defined contour, if the observer, without changing his place, directs towards his eyes the "N" rays emitted by a previously exposed brick or pebble, he sees the dial whiten; he can trace distinctly its circular contour, and even succeed in seeing the hands. When the "N" rays are suppressed, the dial again grows dark. Neither the production nor the cessation of the phenomenon are instantaneous.
+
+As in these experiments the luminous object is placed very far away from the source of "N" rays, and as, on the other hand, in order that the experiment may succeed, the rays must be directed, not towards the object, but towards the eye, there can be no question here of an increase in emission of a luminous body influenced by "N" rays, but indeed of a strengthening of the effect upon the eye, due to the "N" rays which are superposed on the luminous rays.
+
+This fact astonished me all the more because, since the slightest film of water arrests "N" rays, it seemed unlikely that they could penetrate into the eye, whose humours contain more than 98.6 per cent. of water (Lohmeyer). The small quantity of salt contained in these humours must have rendered them transparent to "N" rays. But, then, in all probability, salt water must itself be transparent. Experiment shows that this is the case, for while a sheet of wet paper completely arrests "N" rays, a vase of Bohemian glass, 4 cms. in diameter, filled with salt water and placed in their path, lets them pass without sensible weakening. A very small quantity of sodium chloride is sufficient to render water transparent. What is more, salt water is capable of storing-up "N" rays, and in the above-described experiments the brick can be replaced by a vase of thin glass, filled with salt water, and previously exposed to the sun's rays; the effect is very marked. It is certainly due to the salt water, for the empty vase is without effect. This is a unique example of a phosphorescence phenomenon in a liquid body. It is true that the wave-lengths of "N" rays are very different from those of luminous rays, as results from measurements which it is my intention to describe very soon.
+
+The eye of an ox, killed the day before, rid of its muscles and the tissues adhering to the sclerotic, proved to be transparent to "N" rays in all directions, and became itself active by sun-exposure; it is the storing-up of the "N" rays by the media of the eye which causes the retardation observed in the appearance and cessation of the phenomena which are the subject of the present note.
+
+Sea-water and the stones exposed to solar radiation store up "N" rays which they afterwards restore. Possibly these phenomena play some hitherto unperceived part in certain terrestrial phenomena. Perhaps, also, "N" rays are not without influence on certain phenomena of animal and vegetable life.
+
+The following are further observations concerning the strengthening action of "N" rays on luminous rays.
+
+It is sufficient for the production of the phenomenon that the "N" rays reach the eye, no matter how, even laterally. This seems to indicate that the observer's eye behaves like an accumulator of "N" rays, and that it is these rays accumulated in the media of the eye which act on the retina, jointly with luminous rays.
+
+It matters little whether in these experiments the rays are emitted by a body previously exposed to the sun, or are primary rays, produced for instance by a Nernst lamp.
+
+Sodium hyposulphite, whether solid or dissolved in water, constitutes a powerful accumulator of "N" rays.
+
+
+
+
+
+On the Property of emitting "N" Rays, which is conferred on Certain Bodies by Compression, and on the Spontaneous and Indefinite Emission of "N" Rays by Hardened Steel, unannealed Glass, and other Bodies in a State of Strained Molecular Equilibrium (December 7, 1903).
+
+
+
+Professor A. Charpentier kindly undertook to keep me informed with regard to the progress of certain researches of a physiological nature which he is conducting in connection with "N" rays, unpublished researches which (note 11) promise highly interesting results. These experiments led me to the idea of examining whether certain bodies did not acquire, by compression, the property of emitting "N" rays. For this purpose I compressed, by means of a carpenter's press, bits of wood, glass, rubber, etc., and I immediately observed that these bodies had in fact become, during the compression, sources of "N" rays; brought near a mass of phosphorescent calcium sulphide, they increased its luminosity; and they can also be used for repeating the experiments which show the strengthening of the action on the retina by light when "N" rays are acting simultaneously on the eye.
+
+These last experiments may be made in a very simple manner. The shutters of a room should be closed so as to leave just enough light for a white surface standing out on a dark background—for instance, the dial of a clock—to appear, before an observer 4 or 5 metres distant, like a grey patch with ill-defined contours. If a cane stick placed before the eyes is bent, the grey surface is seen to whiten; if the cane is allowed to straighten, the surface grows dark again. Instead of the cane, a slip of plate-glass can be used. This is bent either with the press employed in lectures for showing the doubly refractive property of glass acquired by flexure, or simply with the hands. With a suitable amount of light, which may be obtained after a few trials, these phenomena are easily visible. They are not instantaneous, as I have already explained. It is of the utmost importance that this retardation be taken into account when one wishes to study these phenomena; to this may doubtless be ascribed the fact that they have remained so long undetected.
+
+I was then led to ask myself whether bodies which are themselves in a state of strained internal equilibrium would not emit "N" rays. That they do so is indeed confirmed by experiment. Rupert's drops, hardened steel, hammer-hardened brass, melted sulphur of crystalline structure, etc., are spontaneous and permanent sources of "N" rays. One can, for instance, repeat the experiments with the clock dial, employing, instead of a compressed body, a hardened steel tool, such as a chisel or file, or even a pocket-knife, without in any way bending or compressing them; similarly, bringing near to a small mass of phosphorescent calcium sulphide a knife-blade or bit of unannealed glass is sufficient to increase the phosphorescence. Non-hardened steel is without action; a chisel which is successively hardened and softened in turn is active when hard and inactive when the temper is taken out of it. These actions traverse, without any notable weakening, a plate of aluminium 1.5 cm. thick, an oak board 3 cms. thick, black paper, etc.
+
+
+
+The emission of "N" rays by tempered steel seems to last indefinitely. Some lathe-tools and a stamp for leather of the 18th century, which have been preserved in my family, and have certainly not been rehardened since the date of their manufacture, emit "N" rays like freshly tempered steel. A knife, found in a Gallo-Roman tomb, situated in the district of Craincourt (Lorraine), and dating from the Merovingian epoch, as is attested by the objects found there (glass and earthenware jars, fibulae, belt-buckles, swords of the kind called scramasax, etc.), emits "N" rays just like a modern knife. These rays originate exclusively from the blade; a test with a file showed that the blade alone is tempered, and that the tailpiece intended to be fixed in a handle is not tempered.[1]
+
+The emission of "N" rays by this steel blade has thus persisted for more than twelve centuries, and does not appear to have abated.
+
+
+
+The spontaneity and the indefinite duration of the emission by steel suggests the idea of assimilating it to the radiant properties of uranium, discovered by M. H. Becquerel, properties which the bodies since discovered by M. and Mme. Curie, viz. radium, polonium, etc., exhibit with so much intensity. Nevertheless, "N" rays are certainly spectrum radiations; they are emitted by the same sources as spectrum radiations; they are reflected and polarized, and possess well-defined wave-lengths, which I have measured. The energy which their emission represents is most likely borrowed from the potential energy corresponding to the strained state of tempered steel; this expenditure is doubtless very slight, since the effects of the "N" rays are likewise slight, which explains the apparently unlimited duration of the emission.
+
+An iron plate, bent so as to impress on it a permanent deformation, emits "N" rays; but the emission ceases after a few minutes. A block of aluminium, fresh-hammered, behaves in an analogous manner; but the time of emission is even shorter. In these two cases the state of molecular strain is transitory, as is also the emission of "N" rays.
+
+Torsion produces effects analogous to compression.
+
+
+
+↑ The primitive Gauls do not appear to have known steel, for, from Polybius' account, their iron swords did not stab, and bent in combat at the very first blows. The knife alluded to here is of Gallo-Roman origin, and the Gallo-Romans had doubtless learnt from the Romans the art of making and tempering steel.
+
+
+
+
+
+* * *
+
+
+
+
+
+On the Dispersion of "N" Rays and on their Wave-length (January 18, 1904).
+
+
+
+To study the dispersion and the wave-lengths of "N" rays, I used methods quite similar to those employed for light. In order to avoid complications which might have resulted from the storing-up of "N" rays, I used exclusively prisms and lenses of aluminium, a substance which does not absorb their rays.
+
+The following is the method employed to study dispersion. The rays are produced by a Nernst lamp, enclosed in a lantern of sheet-iron, pierced with an opening, which is shut by aluminium foil; the rays from the lamp which pass through this opening are sifted by a deal board 2 cms. thick, a second sheet of aluminium, and two leaves of black paper, so as to eliminate radiations foreign to "N" rays. In front of those screens, and at a distance of 14 cms. from the lamp filament, a large screen of wet cardboard is arranged, in which a slit has been cut 5 mms. wide and 3.5 cms. high, exactly opposite the lamp filament. In this way I obtain a well-defined pencil of "N" rays; this pencil is received on an aluminium prism whose refractive angle is 27° 15′, placed so that one of its faces is normal to the incident pencil.
+
+It is, then, possible to prove that from the other refractive face of the prism several pencils of "N" rays, horizontally dispersed, emerge. For this purpose a slit 1 mm. broad and 1 cm. high, cut in a sheet of cardboard, is filled with calcium sulphide rendered phosphorescent; by displacing this slit, the position of the dispersed pencils is determined without difficulty, and the deviations being known, their refractive indices are deduced. This is the method of Descartes. I thus established the existence of "N" radiations, whose indices are respectively 1.04, 1.19, 1.29, 1.36, 1.40, 1.48, 1.68, 1.85. In order to measure with more exactness the first two indices, I made use of another aluminium prism having an angle of 60°. I again found for one of the indices the same value, 1.04; and for the other, 1.15 instead of 1.19.
+
+In order to control the results obtained by the prisms, I determined the indices by producing, by means of an aluminium lens, images of the lamp filament, and measuring their distances from the lens. The lens, which is plano-convex, has a radius of curvature of 6.63 cms., and an aperture of 6.8 cms. The slit of the wet screen is widened so as to form a circular opening 6 cms. in diameter; the lens is placed at a known distance ( cm.) from the incandescent filament, and by means of the phosphorescent sulphide, the position of the conjugate images of the filament is determined. The following table gives the values of the indices found, both with the prism and the lens:—
+
+Prisms. Lens.
+
+
+
+27° 15′ 60°
+
+1.85 „ ... ... 1.86 1.91 1.91
+
+1.68 „ ... ... 1.67 1.66 1.67
+
+1.48 „ ... ... 1.50 1.44 1.48
+
+1.40 „ ... ... 1.42 1.42 1.43
+
+1.36 „ ... ... 1.36 1.36 1.37
+
+1.29 „ ... ... 1.36 1.31 „
+
+1.19 1.15 ... ... 1.20 „ „
+
+1.04 1.04 ... ... „ „ „
+
+
+
+Here is another verification of these results: if for the fourth index the mean value 1.42 is adopted, one works out that for an aluminium prism of 60°, the incidence giving the minimum deviation is 45° 19′, and that this deviation is 30° 38′; the observed deviation was 31° 10′. With the same incidence, the calculated deviation of the radiation, whose index is 1.67, is 57° 42′; the observed deviation was 56° 30′.
+
+I now pass on to the determination of wave-lengths.
+
+By means of the above-described arrangement for studying dispersion by the prism of 27° 15′, refracted pencils are obtained, each of which is sensibly homogeneous. If we make the pencil we wish to study impinge on a second screen of wet cardboard, pierced with a slit 1.5 mm. wide, we can isolate a narrow portion of this pencil.
+
+On the other hand, a piece of aluminium foil is fixed to the moving radial arm of a goniometer, so that its plane is normal to the arm; in this foil a slit is cut only 0.07 mm. wide, and filled with phosphorescent calcium sulphide; the goniometer is arranged so that its axis is exactly underneath the slit of the second wet cardboard. By turning the arm, the path of the pencil is exactly marked out, and one can verify that it is quite unique, and is accompanied by no lateral pencil, such as diffraction could eventually produce in the case of large wave-lengths.
+
+A grating is then placed in front of the slit of the second wet cardboard (for instance, a Brunner grating of 200 lines per mm.). If, now, the emerging pencil is explored by turning the arm which bears the phosphorescent sulphide, the existence of a system of diffraction fringes is confirmed, just as with light, only these fringes are much closer together, and are sensibly equidistant. This already indicates that "N" rays have much shorter wave-lengths than luminous radiations.
+
+The angular distance of the fringes, or what amounts to the same thing, the rotation of the arm corresponding to the passage of the phosphorescent slit from one luminous fringe to the next, is very small. It is therefore determined by the method of reflection, with the aid of a divided scale and telescope, a plane-mirror being fixed to the arm. Moreover, one measures, not the distance between two consecutive fringes, but that between two symmetrical fringes of a high order—for example, that between the tenth fringe on the right, and the tenth fringe on the left. From these measures of angle, and from the number of lines per millimetre of the grating, the wave-length can be deduced by the known formula.
+
+Each wave-length has been determined by three series of measures, effected with three gratings, having respectively 200, 100, and 50 lines per millimetre.
+
+The following table exhibits the results of these measures:—
+
+Wave-lengths.
+
+
+
+Grating employed.
+
+Probable values
+
+deduced from
+
+the preceding.
+
+Indices. 200 lines
+
+per mm. 100 lines
+
+per mm. 50 lines
+
+per mm.
+
+1 ·04 0 ·00813 0 ·00795 0 ·00839 0 ·00815
+
+1 ·19 0 ·0093 0 ·0102 0 ·0106 0 ·0099
+
+1 ·4 0 ·0117 — — 0 ·0117
+
+1 ·68 0 ·0146 — — 0 ·0146
+
+1 ·85 0 ·0176 0 ·0171 0 ·0184 0 ·0176
+
+Being desirous of controlling these determinations by the use of a quite different method, I had recourse to Newton's rings. These being produced, in yellow light, for instance, if one passes from one dark ring to the following, the variation of optical retardation in air is one wave-length of yellow light. If, now, with the same apparatus and the same incidence, rings are produced by means of "N" rays, and the number of these rings comprised between two dark rings in yellow light is counted, we shall obtain the number of times which the wave-length of "N" rays is contained in the wave-length of yellow light. This method, applied to rays of index 1.04, gave the values 0.0085 instead of 0.0081 found by the gratings; and for the index 1.85, the value 0.017 instead of 0.0176. Though the ring method is inferior to the grating method, on account of the uncertainty attending the exact position of the dark rings in the experiment, an uncertainty which is due to the necessity of rendering these rings very wide, the concordance of the numbers obtained by the two methods constitutes a valuable control.
+
+In the tables given above I have retained all the decimals occurring in the calculation of the numbers deduced from observation. Although I cannot with certainty indicate the degree of approximation of the results, I believe, nevertheless, that the relative errors do not exceed 4 per cent.
+
+The wave-lengths of "N" rays are much smaller than those of light. This is contrary to what I had imagined for a moment, and contrary to the determinations which M. Sagnac thought he had deduced from the position of the multiple images of a source, obtained with a quartz lens, images attributed by him to diffraction. I had previously observed that while polished mica lets "N" rays pass, roughened mica stops them, and also that whereas polished glass reflects them regularly, ground glass diffuses them. These facts were already an indication that "N" rays could not have large wave-lengths. If we desire to study the transparency of a body, we must take care that the surface is well polished. Thus I had at first classed rock-salt amongst opaque substances, because the specimen I used, having been sawn from a large block, had remained unpolished; in reality, rock-salt is transparent. The radiations of very small wave-length, discovered by M. Schumann, are to a very great extent absorbed by air; "N" rays are not. This implies the existence of absorption bands between the ultra-violet spectrum and "N" rays. The wave-length of "N" rays increases with their refractive index, contrary to what occurs with luminous radiations.
+
+If the increase in brilliancy of a small luminous source by the action of "N" rays is to be attributed to a transformation of these radiations into luminous radiations, this transformation is in conformity with Stokes' law.
+
+
+
+
+
+Registration by Photography of the Action produced by "N" Rays on a small Electric Spark (February 22, 1904).
+
+
+
+Though "N" rays have no intrinsic action on the photographic plate, it is nevertheless possible to utilize photography to reveal their presence and study their action. This object is attained, as I showed as long ago as May 11, 1903, by making a small, luminous source act for a determined period on a sensitive plate, whilst this source is subjected to the action of "N" rays, and then repeating the experiment for the same interval of time and under the same conditions, save that the "N" rays are suppressed. The impression produced is notably more intense in the first case than in the second. As an example of the application of this method, I gave at the time two photo-engravings, whose comparison shows that water, even when used in very thin films, arrests "N" rays issuing from an Auer burner (see page 16). Since then I have extended the experiments to the registration of actions produced by "N" rays from various sources, and I have perfected the process, as will be shown.
+
+A small, luminous spark is the most appropriate luminous source for this kind of investigation: for, on the one hand, it is very actinic, and, on the other, it can be maintained as long as necessary at the same intensity. Although it is impossible to obtain absolute steadiness of glow in the spark, since these variations are not produced systematically,
+
+their influence should disappear in the total impression received by the plate, even after a very short exposure. I contrived, besides, to eliminate even still more completely this cause of perturbation, by repeatedly alternating the experiments, as I will proceed to show. Fig. 4 represents a horizontal section of the apparatus employed. AB is the photographic plate, 13 cms. wide; E is the spark enclosed in a cardboard box, FGHI, open only on the side facing the plate, and allowing the spark to act on one half, OB, of the plate only; CD is a lead screen wrapped in wet paper, rigidly connected with the frame which holds the plate. The "N" rays, proceeding from any source, form a pencil, having the direction NN'. With this arrangement the "N" rays are arrested by the screen CD; the spark, while it acts on half-plate OB, is sheltered from the rays.
+
+Now impart to the frame containing the plate a translation to the right equal to half its length (Fig. 5); the other half, AO, of the plate takes the place formerly occupied by OB; and this time the screen CD, carried along with the frame in this movement, is no longer interposed in the path of the rays. The half-plate AO therefore receives the action of the spark while subjected to the rays.
+
+This being understood, the experiment is as follows: first the plate is kept in the first of the above-indicated positions during five seconds, then in the second position also for five seconds; it is then brought back to the first position, and the double operation just described is repeated several times.
+
+After an interval of time equal to an even multiple of five seconds—for instance, one hundred seconds—each of the half-plates has been exposed to the spark for an equal period, only, while AO was exposed, "N" rays were in action, and while OB was exposed there were none.
+
+Thanks to an arrangement of guides and buffer-stops, the to-and-fro motion of the frame can be executed with perfect certainty and regularity, in spite of the darkness. A metronome is used to regulate the action.
+
+
+
+The spark is produced by a small induction-coil, known as du Bois-Reymond's chariot apparatus; it strikes between two blunt points of platinum-iridium, carefully machined and polished. These are fixed to the two jaws of a pair of wooden pliers, which tend to close by elasticity, and are kept apart by a micrometer screw. At a distance of about 2 cms. from the spark, and facing the plate, a plate of ground glass is fixed. As I have previously mentioned, the light of the spark produces on this glass an extensive luminous patch, much easier to observe than the naked spark, and giving on the photographic plate impressions of much more regular form. The regulating of the spark is the delicate part of the experiment. The induced current must first be adjusted, by modifying the primary current on the one hand, and the position of the secondary coil on the other, till the spark becomes very small. The points are washed in alcohol, then a slip of dry paper is drawn between them, for the purpose of drying and repolishing their surface; then the micrometer screw is turned so as to make the spark as short as possible, yet without incurring any risk of the points touching by any chance vibration, which would make it disappear intermittently. By a methodical process of trial and error, which sometimes demands much time and patience, one succeeds in getting a spark both regular and very feeble; it is then sensitive to the action of "N" rays. If one directs on it a pencil of these radiations, proceeding from any source, one sees the patch on the ground glass increase in size and glow; at the same time its central part becomes more luminous, appearing wrapped in a kind of nimbus. One can then proceed with the photographic experiment. I made about forty such experiments, employing in turn, as sources of "N" rays, a Nernst lamp, compressed wood, hardened steel, Rupert's drops, etc. I have varied the experiments in different ways—for example, by changing the side of the screen CD, by using a zinc screen transparent to "N" rays, etc. Several eminent physicists, who have been good enough to visit my laboratory, have witnessed them. Of these forty experiments, one was unsuccessful: the rays were produced by a Nernst lamp, and instead of
+
+
+
+the expected unequal impressions, two sensibly identical images were obtained. I believe this failure, unique, be it remarked, to be due to an insufficient regulation of the spark, which, doubtless, was not sensitive. Fig. 6 is a photo-engraved reproduction of the prints obtained with and without "N" rays issuing from a Nernst lamp.
+
+Fig. 7, similarly, shows the result of an experiment with "N" rays, produced by two large files.
+
+Though the photogravures are far from rendering in a satisfactory manner the aspect of the originals, they nevertheless show the influence of "N" rays on a photographic impression.
+
+I give further (Figs. 8 and 9) the reproduction of photographs, showing that "N" rays, issuing from a Crooke's tube, are polarized.
+
+These photographs date from the month of April, 1903. They were not obtained by the method of reiterated alternation of exposure, as this method is difficult to apply to this case; but the experiments have been repeated a great number of times with the most minute precautions, and the constancy of the results is an absolute guarantee of their worth.
+
+From my communication of May 11, 1903, and from what precedes, it is clear that, from the beginning of my researches on "N" rays, I had succeeded in recording their action on the spark by an objective method.
+
+
+
+
+
+On a New Species of "N" Rays (February 29, 1904).
+
+
+
+Observations made during a very complex experiment, which I owe to Dr. Th. Guidloz, led me to suspect the existence of a variety of "N" rays, which, instead of increasing, on the contrary, diminished the glow of a feeble luminous source. I undertook to search for rays of this type amongst those emitted by a Nernst lamp. While previously studying the spectrum of this emission, produced by an aluminium prism, I had not met with such radiations. I consequently thought that there were reasons for studying anew, and still more minutely, the feebly deviated part of the spectrum. On
+
+exploring this region, by means of a narrow slit filled with phosphorescent calcium sulphide, I ascertained, without any difficulty, that, in certain azimuths, the glow of the spark diminished under the action of the rays, and increased, on the contrary, when they were intercepted by a wet screen. These were, in fact, the looked-for radiations; I will call them "N1" rays.
+
+Although the aluminium prism of 27° 15′ I used previously is suitable for these experiments, nevertheless, in order to increase the dispersion, I used an aluminium prism of 60°, and afterwards another of 90°. With the help of the latter, I very carefully studied the feebly deviated part of the spectrum. The prism was arranged so that the angle of incidence was 20°; for each radiation, the deviation was measured and the refractive index deduced; then the wave-length was determined by means of a Brunner grating of 200 lines to the millimetre, by the process already described (see p. 57). The following table gives the numbers which result from this study, and were used for constructing the diagram (Fig. 10), in which the abscissæ stand for the wave-lengths and the ordinates for the indices diminished by unity.
+
+Nature of
+
+the rays. Indices. Wave-lengths.
+
+N1 1.004 0.003
+
+N 1.0064 0.0048
+
+N1 1.0096 0.0056
+
+N 1.011 0.0067
+
+N1 1.0125 0.0074
+
+N 1.029 0.0083
+
+N 1.041 0.0081
+
+Each of the divisions marked on the axis of abscissae corresponds to 0.001, and each of the divisions marked on the ordinate axis corresponds to an excess over unity equal to 0.01.
+
+In spite of all the care with which the experiments were executed, the deviations are so small, and, consequently, the indices so near to unity, that the table and diagram can only be regarded as a preliminary indication of the behaviour of the dispersion in the very slightly deviated part of the spectrum. An important consequence arises from these measures, viz. points corresponding to "N" rays, and those corresponding to N1 rays, are all situate on the same curve, within the limits of experimental error. The study of radiations still less refrangible than those I have dwelt on appeared to me impracticable. To avoid confusion, I was obliged to adopt a very large scale for the ordinates; this is why I could not plot on the diagram the results of my former measurements of the more refrangible "N" rays (loc. cit.). These results give points situated on a branch of the curve, starting from the topmost point on the right, and rising almost vertically, with a feeble inclination, from bottom to top, and from right to left, and a slight convexity turned upwards.
+
+Certain sources seem to emit N1 rays exclusively, or, at least, these rays predominate in the emission. This is the case with copper and silver wire, and with hard-drawn platinum wire. M. Bichat has observed that ethylic ether, when brought to the state of forced extension, by the process discovered by M. Berthelot, emits N1 rays. When this state of strain ceases, whether spontaneously or under the action of a slight blow, the emission of N1 rays immediately disappears.
+
+
+
+N1 rays can be stored up like "N" rays. For instance, one need only bring a bit of stretched copper wire in proximity to a lump of quartz to make the quartz emit N1 rays for some time after.
+
+
+
+
+
+On Peculiarities presented by the Action exercised by "N" Rays on a Dimly Lighted Surface (February 2, 1904).
+
+
+
+Consider a phosphorescent screen, or, more generally, a dimly lighted surface. If this surface is viewed normally, one notices that the action of "N" rays is to render it more luminous; if, on the contrary, the surface is viewed very obliquely, nearly tangentially, the action of "N" rays is to render it less luminous. In other words, the action of "N" rays increases the quantity of light normally emitted, while it diminishes the light emitted in a very oblique direction. If one looks at it in an intermediate position, no appreciable effect is observed. This explains the fact, observed in all "N" ray experiments, that only the observer placed exactly in front of the sensitive screen perceives the effect of these rays. It also shows how illusory it would be to try to make an audience witness these experiments: the effects perceived by different persons, depending as they do on their positions with regard to the screen, would certainly be contradictory or imperceptible. The rays I have called N1 rays have an inverse action in all cases to that of "N" rays; they diminish the light emitted normally, and increase the light emitted tangentially. M. Macé de Lepinay (see C. R. t. cxxxviii. p. 77, January 11, 1902) has found that sound vibrations increase the glow of a phosphorescent screen as seen by an observer viewing it normally. I have noticed that if the screen is viewed tangentially, the phosphorescence is seen to decrease under the action of the sound-waves. The action of a magnetic field or of an electromotive force on a feebly luminous surface, discovered by M. C. Gutton (see C. R. t. cxxxviii. p. 268, February 1, 1904), presents the same particularities.
+
+To sum up, in all the above-mentioned actions, the modification undergone by the luminous emission consist in a change in its distribution along the different directions comprised between the normal and the tangent plane to the luminous surface.
+
+
+
+
+
+On the Comparative Action of Heat and "N" Rays on Phosphorescence (March 14, 1904).
+
+
+
+I have recently indicated that, whilst the action of "N" rays increases the quantity of light emitted by a phosphorescent screen in a normal direction, it diminishes the quantity of light emitted very obliquely (see the preceding communication). As is well known, heat also acts on phosphorescence, whose brilliancy it temporarily increases. When investigating whether this action of heat offered the same peculiarities as that of "N" rays, with regard to the direction of the emitted light, I found that, on the contrary, heat produces an increase in brilliancy in all directions comprised between the normal and the tangent plane. Hence we are in a position to distinguish between the effects produced on phosphorescence by heat on the one hand, and by "N" rays, sound-waves, magnetic and electric fields on the other.
+
+The following is another case in which the effects are different. Take a rectangular cardboard screen, 5 cms. high and 12 cms. long, for instance, coated very uniformly with calcium sulphide, and rendered very feebly phosphorescent. If the temperature of a portion of the screen is raised, this part becomes more luminous than the rest. If, instead of this, we let fall on one half of the screen a pencil of "N" rays, proceeding, for example, from a Nernst lamp, we find no sensible increase in its glow; but if in front of this half-screen a small opaque object is placed, for instance, a small key or a bit of metal foil, cut off by daylight, this is seen to come out very strongly on the luminous background, while if it is placed on the half not receiving the "N" rays, its outline is vague and indeterminate, and seems even to disappear at times. By shifting slowly the object on the screen, its passage from one half-screen to the other is rendered visible by the change in the boldness of its outline. If instead of viewing the object normally, we observed it very obliquely, the phenomena are reversed. These are striking experiments.
+
+
+
+
+
+Complementary Notes.
+
+
+
+(1) As mentioned in the Preliminary Notice and as will be seen in the later communications, the properties attributed in the present paper to "X" rays, belong not to these rays, but to a new kind of rays, to which I have given the name of "N" rays. The experiments are correct, and the rectification only applies to the nature of the rays which have been studied.
+
+(2) What I attributed then to "S" rays is, in reality, due to diffused "N" rays. The rotation of the plane of polarization of "N" rays by active substances is perhaps very great, since their wave-lengths are very small. It may be, then, that the angles I have observed are merely the remainders obtained by subtracting 360° once or several times from the real rotations. For the same reason, the rotations in a contrary direction could be apparent only. Investigation on this point remains still to be carried out; the operations should be conducted successively on each of the homogeneous pencils resulting from the dispersion of a pencil of "N" rays by an aluminium prism. The existence of magnetic rotatory polarization has recently been shown by M. H. Bagard, whose investigations are still in progress. (C. R. t. cxxxviii.)
+
+(3) Unpolished mica arrests a pencil of "N" rays; these are not, however, absorbed, but only diffused, as in the case of light.
+
+(4) Rock-salt is in reality transparent. What had at first misled me was that the plate of salt I used, having been sawn out of a large block, had remained unpolished. In this state it was only translucent, whether for "N" rays or for light. When polished with wet paper, it becomes transparent both for "N" rays and light; when the polish disappears, it becomes translucent again.
+
+
+
+(5) As I state in the text, these rough data on the transparency of different substances will have to be completed by new experiments methodically conducted. I have since found that copper continues to transmit "N" rays emitted by a Nernst lamp, even when used in thicknesses of 65 cms.; that, similarly, glass is very transparent, etc. M. Bichat has studied the transparency of various bodies; in particular, he has ascertained that the opacity of a sheet of lead is due to the fact that it is superficially covered with oxide and carbonate. Metallic lead lets pass certain of the "N" radiations. (See C. R. t. cxxxviii. p. 548, February 29, 1904.)
+
+(6) See the communications of May 25 and June 15, 1903.
+
+(7) I have since found that, on the contrary, "N" rays have much shorter wave-lengths than those of light. (See my communication of January 18, 1904 (p. 53 of the present volume).)
+
+(8) See note above (7).
+
+(9) The phosphorescence may be intense, provided it be not at its maximum.
+
+(10) The piece of gold must of course be also receiving the "N" rays.
+
+(11) These researches have since been communicated to the Academy of Sciences. (See C. R. t. cxxxvii. p. 1049, December 24, 1903.)
+
+(12) According to some experiments which I have made with an aluminium lens on rays issuing from a knife-blade, these should have very large indices. M. Charpentier has found that wet cardboard transmits these rays. These questions remain to be studied.
+
+
+
+
+
+Instructions for Making Phosphorescent Screens adapted for the Observation of "N" Rays
+
+
+
+(1) If one proposes only to ascertain the production of "N" rays in given circumstances, a phosphorescent screen, made as follows, may be used with advantage: some powdered calcium sulphide is mixed with collodion, diluted with ether, so as to form a very thin paste; then, with a water-colour brush, drops of this paste are painted on blackened cardboard, so as to produce stains several millimetres in diameter, close to each other. The screen then presents the aspect of a spotted fabric. If, after being exposed to light, it is examined in a dark room, and in perfect silence, some of the spots will appear less luminous than the others. Usually, some will not seem to be sharply separated from their neighbours, but will form a sort of confused nebula less visible than the rest. Now, if one speaks aloud or whistles, or if a knife, or a slightly bent stick, or the clenched fist, etc., be brought near to the cardboard, all the spots will become distinct and more luminous; the nebula resolves itself. When the rays are suppressed, the screen resumes its former aspect.
+
+(2) To obtain large, uniformly luminous screens, the process is similar to the one adopted for painting in Indian ink; a coating of the mixture of sulphide and collodium, made very thin by the addition of ether, is spread out as uniformly as possible with a water-colour brush. When this layer is dry, a second is applied, and so on until the screen appears uniformly luminous. The thinner the coatings, and the greater their number, the better the result.
+
+(3) To measure the refractive indices and wave-lengths, I use very narrow slits filled with calcium sulphide. Two rectangular plates of aluminium are placed side by side on a small board, so that their edges are in contact. A little of the metal was previously filed off one plate, so that when the plates were in position, a slit was formed between them 2 cms. long and only about mm. broad. A recess has first been made in the board, just where the slit lies, so that the latter is free on both sides. The two plates being first brought within a small distance of each other, some powdered calcium sulphide is packed in between them, after which they are pressed against each other, and maintained with screws, which keep them in contact with the board. The compressed sulphide remains in the slit, and is exposed to sunlight, after the excess has been removed. An extremely narrow phosphorescent slit is thus obtained.
+
+
+
+
+
+How the Action of "N" Rays should be observed
+
+
+
+It is indispensable in these experiments to avoid all strain on the eye, all effort, whether visual or for eye accommodation, and in no way to try to fix the eye upon the luminous source, whose variations in glow one wishes to ascertain. On the contrary, one must, so to say, see the source without looking at it, and even direct one's glance vaguely in a neighbouring direction. The observer must play an absolutely passive part, under penalty of seeing nothing. Silence should be observed as much as possible. Any smoke, and especially tobacco smoke, must be carefully avoided, as being liable to perturb or even entirely to mask the effect of the "N" rays. When viewing the screen or luminous object, no attempt at eye-accommodation should be made. In fact, the observer should accustom himself to look at the screen just as a painter, and in particular an "impressionist" painter, would look at a landscape. To attain this requires some practice, and is not an easy task. Some people, in fact, never succeed.
+
+
+
+
+
+About this digital edition
+
+
+This e-book comes from the online library Wikisource. This multilingual digital library, built by volunteers, is committed to developing a free accessible collection of publications of every kind: novels, poems, magazines, letters...
+
+We distribute our books for free, starting from works not copyrighted or published under a free license. You are free to use our e-books for any purpose (including commercial exploitation), under the terms of the Creative Commons Attribution-ShareAlike 4.0 Unported license or, at your choice, those of the GNU FDL.
+
+Wikisource is constantly looking for new members. During the transcription and proofreading of this book, it's possible that we made some errors. You can report them at this page.
+
+The following users contributed to this book:
+
+Einstein95
+
+ShakespeareFan00
+
+Kges1901
+
+Albert Micah Hang
+
+Vanished Account Byeznhpyxeuztibuo
+
+Kathleen.wright5
+
+Astropilot11
+
+John Carter
+
+TheresNoTime
+
+Simon Peter Hughes
+
+Ixfd64
+
+MJL
+
+Beeswaxcandle
+
+Samwilson
+
+Sp1nd01
+
+FALVES
+
+HelicopterLlama
+
+AuFCL
+
+SwiftyPeep
+
+Prosody
+
+AnnieA1954
+
+John Vandenberg
+
+Billinghurst
+
+R. J. Mathar
+
+Robot Monk
+
+Masur
+
+Jarekt
+
+Rocket000
+
+Zscout370
+
+Boris23
+
+Abu badali~commonswiki
+
+Kyle the hacker
+
+Cumulus
+
+Noclip~commonswiki
+
+Ö
+
+Latebird
+
+Auralux
+
+Waldyrious
+
+Dbenbenn
+
+Jacobolus
+
+Indolences
+
+Technion
+
+Dha
+
+Abigor
+
+Reisio
+
+Blurpeace
+
+Dschwen
+
+Steinsplitter
+
+KABALINI
+
+Bromskloss
+
+Tene~commonswiki
+
+AzaToth
+
+Bender235
+
+PatríciaR
+
+
+
+
+

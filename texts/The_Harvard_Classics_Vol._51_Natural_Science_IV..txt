@@ -1,0 +1,130 @@
+The Harvard Classics Vol. 51 — The Biological Sciences
+
+
+					Lawrence Joseph Henderson
+
+
+
+
+
+Exported from Wikisource on September 29, 2025
+
+
+
+
+
+IV. THE BIOLOGICAL SCIENCES
+
+
+
+By Professor Lawrence J. Henderson
+
+
+
+AMONG the central problems of biology and scientific medicine, those which group themselves about the bacteriological and pathological investigations of Pasteur[1] have been very fully represented in The Harvard Classics. This is due partly to the fact that Pasteur, in providing an explanation of the conditions of life of micro-organisms and of the effects of their activities, contributed many missing links to the science of life, and unified our knowledge of the interrelations of living things. For, in its various ratifications and connections, Pasteur's problem is one of the most extensive, as it is one of the most important, in the whole domain of science. It includes or touches the subjects of fermentation and putrefaction, with the old problem of spontaneous generation and the whole question of genesis, the cause of infectious diseases and the manner of their communication, the nature and mechanism of immunity, including vaccination and antitoxins, and a host of other equally important matters. The work of Pasteur has led to modern surgery through the work of Lister,[2] to a large part of modern hygiene, sacrificing the lives of many investigators in the process; to new methods in chemical industry and agriculture, and it has created untold wealth and saved countless lives.
+
+
+
+
+
+THE QUESTION OF SPONTANEOUS GENERATION
+
+
+
+Aristotle, though his knowledge of embryology in at least one instance—that of the smooth dog-fish—was very great and very exact, appears at times to have been willing to assume spontaneous generation of such large animals as the eel, for instance, as a common occurrence. But there can be no doubt that even in antiquity common sense sometimes felt itself more or less in opposition to such an idea, and it was natural enough for the men of the seventeenth century, when stirred by the new spirit of scientific research, to seek to solve a problem which has always been of the highest interest, and never far from the minds of thoughtful naturalists.
+
+In this great century the most important investigations of such problems were those of Harvey, Redi, and Swammerdam. Harvey's embryological observations are far less valuable than his study of the circulation of the blood.[3] It may, in truth, be questioned if he surpassed Aristotle in any way as an embryologist. But, at all events, his work served to draw the attention of his successors to this subject, and, however vague his ideas about spontaneous generation in certain lower forms of life, he at least took a firm stand in favor of the theory of generation from the egg in most cases.
+
+The work of Redi is of greater interest and importance. He made elaborate studies of the putrefaction of flesh, saw flies lay their eggs therein, and on gauze when the flesh was protected with it. He saw maggots develop in the unprotected meat, while the use of gauze prevented their development. He found that meat of one kind could support maggots which formed more than one kind of fly, and that the same species of fly could come from different kinds of meat. Hence he concluded that the generation of the fly is from an egg, and that there is no spontaneous generation involved in the putrefaction of meat.
+
+Swammerdam, one of the greatest of naturalists, and many others confirmed the observations and conclusions of Redi, and, by observing again and again normal generation from the egg in many other species of minute organisms, did much to undermine the confidence with which the unaccountable appearance of living things was ascribed to spontaneous generation.
+
+Meanwhile the microscopical studies of Leeuwenhoek had revealed the presence of hosts of minute organisms in putrid fluids and, in the eighteenth century, the problem of spontaneous generation was transferred to the origin of microscopic life. This problem in turn was answered unfavorably to spontaneous generation by Spallanzani. His new method of investigation was to seal up an infusion of meat in a glass flask; next the flask was immersed in boiling water until the contents had been thoroughly heated throughout, and then the behavior of the solution on standing was observed. After thorough heating no signs of putrefaction were revealed to the eye or to the nose; no living things were ever visible in the solution under the microscope. But on admitting the air to the flasks putrefaction soon set in and thus proved that the fault was not with the effect of heat upon what is to-day called the culture medium, but that putrefaction had not previously occurred simply because all germs originally present had been killed by heat; sterilized, in short.
+
+
+
+
+
+THE CELL THEORY AND FERMENTATION
+
+
+
+The early nineteenth century made two highly important new contributions to the old problem : the view that all living things are made up of cells as their ultimate structural elements; and, secondly, acquaintance with various digestive ferments contained in liquids like the gastric juice, which are now known to be cell free, yet are capable of bringing about processes resembling fermentation. The latter discovery led at a later date to the distinction between organized (living) and unorganized ferments.
+
+Out of the cell theory have grown the wonderful modern sciences of embryology, largely through the efforts of K. E. von Baer, and pathology, in which Rudolf Virchow has a similar position. The study of ferments and fermentation, and of simple chemical agents which can produce like changes, has led to many new problems and to new methods of attacking old ones.
+
+The chemical aspects of fermentation[4] have a special historical importance because they are especially associated with Pasteur's discoveries. Trained as a chemist, he applied the exact methods of physical science to the biological problem, and solved what had been thought by many insoluble. The studies of Pasteur convinced the scientific world that life as we know it never originates spontaneously, that minute living organisms—microbes, germs, bacteria—are far more active agents in this world than had been guessed. Such organisms turned out to be the essential factors in fermentation of all kinds, save only those due to digestive ferments; it is such organisms which form alcohol, sour milk, make vinegar, etc. Thus in the organic cycle the rôle of the organisms formed of a single cell at length appeared to be a great one. Everywhere present, borne by the wind, they are the true scavengers; for nothing, no matter how small, can escape them. But they are more than this. Wherever they find organic matter, dead or alive, that can support life, they seize upon it; they transform many of the most important waste products of the animal into the food of the plant; they grow within larger living things, and by their growth cause disease, or do not, according to their nature. In short, it is their activity, invisible but omnipresent, fitting in at every point where gaps would otherwise occur, which completes the organic cycle.
+
+
+
+
+
+IMPORTANCE OF THE WORK OF PASTEUR
+
+
+
+At length the chemical processes of life upon the earth were unified. Living things were seen to make up a single community, the great laboratory through which alone matter flows in its everlasting cycle.
+
+The results of Pasteur's discoveries and of the methods of investigation which he introduced are probably already greater than the results of Napoleon's life. The simple great man, who almost alone among the scientists of the nineteenth century equals the genius and virtue of Faraday, shares with the latter the first position among those who have revolutionized our twentieth-century world.
+
+Pasteur's discoveries explained at once such observations as those of Oliver Wendell Holmes.[5] They gave a clue to such mysterious processes as vaccination.[6] And one after another each great pest has yielded up its secret cause—a specific micro-organism—to the disciples of Pasteur.
+
+
+
+
+
+TOXINS, ANTITOXINS, AND IMMUNITY
+
+
+
+Yet such discoveries are but a beginning in the explanation of disease. It soon appeared that there is something vastly more important about a bacterium than its ability to grow in the body—viz., the kind of poison which it yields; else why the difference between typhoid fever and tuberculosis? Thus arises the search for such poisons or toxins, a fruitful and important department of medical investigation. But what of the fate of the toxin in the body—what of this effect upon the host? The result of researches upon this line has been the discovery of antitoxins and the science of immunity.
+
+In another direction the progress of micro-biology has been quite as important. Evidently it is not with the help of toxins that yeast forms alcohol and carbonic acid from sugar; it is with the help of enzymes or soluble ferments. These are imprisoned within the cell, but otherwise they resemble pepsin and the other soluble ferments of digestion. But if the yeast cell performs its chemical functions with the help of soluble ferments, why not all other cells as well? Such is in truth the case. Hence the study of the chemical processes which make up the activity of unicellular organisms has explained much that takes place in every living thing. In short, our progress in the solution of the fundamental problem of physiology, the physico-chemical organization of protoplasm, depends in no small degree upon studies of those minute living things which have but a single cell within which to enclose all the activities of an individual being.
+
+
+
+↑ Harvard Classics, xxxviii, 275ff.
+
+↑ See Lister, "On the Antiseptic Principle," in H. C., xxxviii, 257ff.
+
+↑ See Harvey, "On the Motion of the Heart and Blood of Animals," in H. C., xxxviii 59ff.
+
+↑ See Pasteur, "The Physiological Theory of Fermentation," in H. C., xxxviii, 275ff.
+
+↑ See Holmes, "The Contagiousness of Puerperal Fever," in H. C., xxxviii, 257.
+
+↑ See Jenner's original publications on vaccination against smallpox in H. C., xxxviii, 145ff.
+
+
+
+
+
+About this digital edition
+
+
+This e-book comes from the online library Wikisource. This multilingual digital library, built by volunteers, is committed to developing a free accessible collection of publications of every kind: novels, poems, magazines, letters...
+
+We distribute our books for free, starting from works not copyrighted or published under a free license. You are free to use our e-books for any purpose (including commercial exploitation), under the terms of the Creative Commons Attribution-ShareAlike 4.0 Unported license or, at your choice, those of the GNU FDL.
+
+Wikisource is constantly looking for new members. During the transcription and proofreading of this book, it's possible that we made some errors. You can report them at this page.
+
+The following users contributed to this book:
+
+Speight
+
+George Burgess
+
+P. S. Burton
+
+Kathleen.wright5
+
+Londonjackbooks
+
+Billinghurst
+
+Beeswaxcandle
+
+
+
+
+

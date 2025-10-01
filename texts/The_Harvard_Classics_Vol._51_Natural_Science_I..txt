@@ -1,0 +1,428 @@
+The Harvard Classics Vol. 51 — Natural Science: General Introduction
+
+
+					Lawrence Joseph Henderson
+
+
+
+
+
+Exported from Wikisource on September 29, 2025
+
+
+
+
+
+NATURAL SCIENCE
+
+I. GENERAL INTRODUCTION
+
+By Professor Lawrence J. Henderson
+
+
+
+NATURAL science is the latest of man's great achievements. The other important agents of civilization long ago attained their full stature, and many of the finest products of human endeavor, like literature and the fine arts, have been through many centuries the common possession of the race. Even music, the most modern of the arts, is no longer young. But only in the last half century has science reached maturity and revealed its titanic power for good and evil in the reconstruction of the surroundings of our life. Yet to-day, after a few brief decades of the scientific era, agriculture, transportation and communication, food, clothing and shelter, birth and death themselves—in truth almost all of man's experiences and activities—are different from what they were before, and the earth which he inhabits is transformed so that it is with difficulty that he can imagine the conditions of life in past centuries.
+
+Meantime, these very changes which science has wrought have combined with the great generalizations of science to modify philosophy and to direct the current of religious thought. Here again the effects are sometimes good, sometimes evil, but they are always profound and widely influential. Most wonderful of all is the growth of natural knowledge itself, the basis of these changes. Ever more extensive and complete is the description of nature; all things are counted, measured, and figured, then analyzed and classified. Out of such orderly knowledge generalizations and laws arise, and with the help of experiment and mathematical analysis receive their confirmation, until at length positive knowledge appears to extend to almost all phenomena, and, except the origin of things, little seems quite obscure or wholly unknown, while much is very securely established.
+
+The history of science and of its influence on civilization is in some respects the simplest of the departments of history, for it is less complicated by those incalculable forces which, springing from man's passions and personal interests, make up much of the charm and difficulty of general history. Deprived of these psychological elements, the history of science is in fact more nearly a part of the natural history of man; it is concerned with the latest stage of his struggle with the environment, with his cunning and deliberate devices to master it, and with the marvelous structure of theoretical knowledge which he has built up in the process.
+
+
+
+
+
+ANTHROPOLOGY
+
+
+
+Our lives are mainly occupied with the material world, with production and distribution of food and clothing, and the construction of dwellings which shall adequately protect us from the cold, the wind, and the rain. All higher human activities rest upon the successful establishment of these as a foundation. Hence progress, as the word is commonly understood, is most often a step in the control of the environment to the end of better production, construction, and distribution of some commodity. Such progress is not perhaps what the heart of man most ardently desires, but it is, at all events, the one kind about which there can be no doubt.
+
+Many of the most wonderful advances in mastery of the environment are prehistoric, the results of good fortune and gradually widening experience utilized by primitive men of native intelligence. Thus clay is used as the filling for a basket, its baking is accidentally observed, and pottery results; again a log, through a long series of gradual changes and small inventions, becomes transformed into a good boat or canoe.
+
+Sophocles, in a famous chorus of the "Antigone," has celebrated such achievements:
+
+Strophe I.
+
+Many the forms of life,
+
+Wondrous and strange to see,
+
+
+
+But nought than man appears
+
+More wondrous and more strange.
+
+He, with the wintry gales,
+
+O'er the white foaming sea,
+
+Mid wild waves surging round,
+
+Windeth his way across:
+
+Earth of all Gods, from ancient days, the first,
+
+Unworn and undecayed,
+
+He, with his ploughs that travel o'er and o'er,
+
+Furrowing with horse and mule,
+
+Wears ever year by year.
+
+
+
+Antistrophe I.
+
+The thoughtless tribe of birds,
+
+The beasts that roam the fields,
+
+The brood in sea-depths born,
+
+He takes them all in nets
+
+Knotted in snaring mesh,
+
+Man wonderful in skill,
+
+And by his subtle arts
+
+He holds in sway the beasts
+
+That roam the fields, or tread the mountain's height;
+
+And brings the binding yoke
+
+Upon the neck of horse with shaggy mane,
+
+Or bull on mountain crest,
+
+Untameable in strength.
+
+
+
+Strophe II.
+
+And speech, and thought as swift as wind,
+
+And tempered mood for higher life of states,
+
+These he has learnt, and how to flee
+
+Or the clear cold of frost unkind,
+
+Or darts of storm and shower,
+
+Man all-providing.[1]
+
+
+
+
+
+Many will always regard this as the final expression of man's wonder and admiration at that which man has done in winning his civilization. But while we admire and marvel at the feats of primitive man, we must not forget to distinguish a very important difference between such and many achievements of civilized man—in fact, between prehistoric works and deeds and all the greatest scientific achievements. Very wonderful as the early progress was,—think of civilized man's failure to domesticate animals, and, incomparably important, think of the winning of fire,—it lacked a certain germ of growth, which is familiar to us in our own times. Each thing came by itself, it came by accident, and it did not directly lead to other things. Beyond living one's life and waiting for something to turn up so that one's ingenuity might be exercised, there was no method of discovery or invention; the knowledge that existed was not systematized; there was no generalization from experience; and each invention, aside from its particular utility, led to nothing else. How different have been the effects of Pasteur's discovery of the place of micro-organisms in nature![2] Almost at once the causes of many of the gravest diseases of man and other animals became known. There followed the discovery of means of avoiding disease, of curing disease, and we are now well on the way to blot out some of the oldest scourges of humanity. Such are a few of the results in medicine. When the chemical and agricultural results are added, Pasteur appears already to have influenced the life of almost every civilized man.
+
+Clearly the early advances of practical knowledge are not to be confounded with natural science. They belong to the period of human development which is the concern of the anthropologist, and they only concern us as they help to an understanding of what science really is.
+
+
+
+
+
+ANCIENT SCIENCE
+
+
+
+A very little true science did, however, exist at the dawn of history, such as a description of the zodiac and astronomical knowledge, upon which more or less perfect calendars could be based, and knowledge of the properties of triangles which was useful in surveying after the Nile floods. To this slender store the earliest of the Greek philosophers contributed new discoveries, but before long the genius and power of the Greek mind led to overweening confidence in speculation unaided by observation and experiment, and, as a result, the great period of Athens is not scientifically of the highest importance. Aristotle, to be sure, and his pupil Theophrastus, contributed very greatly to sound knowledge of animals, plants, and rocks, but in the theoretical sciences vague ideas based upon words rather than phenomena or clear and precise concepts led them astray.
+
+"The most conspicious example," says Bacon, "of the first class [i. e., of the Rational School of Philosophers] was Aristotle, who corrupted natural philosophy by his logic: fashioning the world out of categories; assigning to the human soul, the noblest of substances, a genus from words of the second intention; doing the business of density and rarity (which is to make bodies of greater or less dimensions—that is, occupy greater or less spaces), by the frigid distinction of act and power; asserting that single bodies have each a single and proper motion, and that if they participate in any other, then this results from an external cause; and imposing countless other arbitrary restrictions on the nature of things; being always more solicitous to provide an answer to the question and affirm something positive in words than about the inner truth of things; a failing best shown when his philosophy is compared with other systems of note among the Greeks. For the Homœomera of Anaxagoras; the Atoms of Leucippus and Democritus; the Heaven and Earth of Parmenides; the Strife and Friendship of Empedocles; Heraclius's doctrine how bodies are resolved into the indifferent nature of fire, and remolded into solids; have all of them some taste of the natural philosopher—some savor of the nature of things, and experience, and bodies; whereas, in the physics of Aristotle you hear hardly anything but the words of logic; which in his metaphysics also, under a more imposing name, and more, forsooth, as a realist than a nominalist, he has handled over again. Nor let any weight be given to the fact that in his books on animals and his problems, and other of his treatises, there is frequent dealing with experiments. For he had come to his conclusion before; he did not consult experience, as he should have done, in order to do the framing of his decisions and axioms; but, having first determined the question according to his will, he then resorts to experience, and, bending her into conformity with his placets, leads her about like a captive in a procession; so that even on this count he is more guilty than his modern followers, the schoolmen, who have abandoned experience altogether."[3]
+
+Later, when Alexandria became the center of the Greek world, and the limitations of metaphysics had become somewhat more evident, there was a return to positive science. For nearly a thousand years men, notably Aristarchus, Eratosthenes, Hipparchus, Euclid, Hero, and Ptolemy, labored at Alexandria, employing the true methods of science and collecting valuable stores of information in astronomy, geometry, trigonometry, optics, heat, and even anatomy. The greatest of the scientific work of antiquity was done during the Alexandrine period by Archimedes at Syracuse. It consists in the creation of the science of statics.
+
+The Romans, practical men—according to Disraeli's definition, those who practice the errors of their forefathers—did little to advance the sciences, and, when the dark ages extinguished all intellectual endeavor, it was little enough that men had achieved in science, compared with their other deeds.
+
+Yet it is certain that both true science and the true methods of science had been established in antiquity. It was not so much the errors of the ancient world as the errors of the Middle Ages in interpretation of the ancient world, and the undue importance that was assigned to Aristotle, which held back science during the first centuries of the Renaissance.
+
+On the other hand, it cannot be denied that if the science of antiquity at its best, in the mechanics of Archimedes, the descriptive astronomy of Hipparchus, the geometry of Euclid, and the zoology of Aristotle, did manifest most of the characteristics of method and treatment which we know to-day, nearly all of the results of modern science, the modifications of life and civilization, are lacking in antiquity. Ancient science was in great part sterile; modern science is now the principal agent in social evolution.
+
+
+
+
+
+RISE OF MODERN SCIENCE
+
+
+
+It was not until the seventeenth century that modern science gained a secure footing. Just as in antiquity, the minds of men once more ranged over the whole field of the intellectual and the imaginative, and produced many works of commanding genius in many different subjects before again buckling down to the more sober tasks of science, which they were doomed to labor upon till now, and quite possibly forever.
+
+Leonardo da Vinci, most versatile of all men, had, to be sure, successfully sought the solution of problems in mechanics, and patiently studied anatomy and, in truth, almost every department of science. But, great as was his insight into the phenomena of matter and motion, and it was perhaps not less than his insight into the fine arts, his work remained without effect, because unknown.
+
+Before Galileo there are but two modern men of science whose importance is capital, Copernicus and Vesalius. The work of Copernicus,[4] though destined finally to tear a veil from before the eyes of men, did not amount to a proof of the heliocentric hypothesis, nor was it at once profoundly influential upon thought. As for Vesalius, he labored upon human anatomy, a subject which has never exerted a wide influence upon the large affairs of civilization. The number of men who, in the sixteenth century and even before, pursued natural science with industry was considerable. But tradition, belief in authority, and the superstitions of the pseudo-sciences of astrology and alchemy, long and successfully resisted the advance of knowledge. Time-honored ideas, nevertheless, had received a rude shock at the hands of Copernicus, and by the year 1600, when Giordano Bruno was burned at the stake, the far-spreading influence of the heliocentric hypothesis, both in its direct hearing, and as an illustration of the power of the untrammeled human intellect, was evident to most thoughtful men.
+
+There followed in the next century such a revolution in thought as has seldom occurred in the whole course of history. To this many factors contributed; the commanding genius of a few great men, Newton, Galileo, Harvey,[5] Kepler, Huygens, Descartes,[6] Bacon,[7] Leibnitz; the growth of algebra, which made possible the invention of analytical geometry by Descartes, and the calculus by Newton and later independently by Leibnitz; the inventions of the telescope and compound microscope, greatly increasing the powers of the eye; finally, that indefinable modernizing of the human mind wrought by the whole Renaissance, which made sound thought once more possible, and for the first time produced in Galileo a man worthy to stand beside Archimedes.
+
+
+
+
+
+NEWTON'S "PRINCIPIA"
+
+
+
+In many respects the seventeenth century is the most interesting in the history of science, and certainly science is the most important human interest in the history of this century. Galileo begins it. "Modern science is the daughter of astronomy; it has come down from heaven to earth along the inclined plane of Galileo, for it is through Galileo that Newton and his successors are connected with Kepler."[8] The investigation of the falling body, and the establishment of the algebraical and geometrical laws of fall by Galileo, joined with Kepler's great discoveries of the laws of planetary motion, and informed by the hypothesis of Copernicus, led to Newton's "Principia,"[9] a work (the only other one by an Englishman) that stands out like that of Shakespeare, towering over all else.
+
+This incomparable book contains all the essential principles of the science of mechanics. Since the year 1687, when it was published, the labor of many men of great genius has only availed to polish, to refine, and to embellish a subject which they could not really extend. In the course of the studies leading up to this work, Newton, incidentally as it were, invented the differential and integral calculus, which became the source not only of countless achievements in mathematics and science, but of perhaps the bitterest controversy in the annals of learning.
+
+The work of Newton in establishing the science of mechanics was dependent upon a variety of other achievements of the century, in addition to the directly contributory labors of Kepler and Galileo. Especially important were the earlier progress of mathematics, marked by the invention of logarithms by Napier and independently by Bürgi, and the above mentioned discovery of analytical geometry by Descartes. Newton's work was also dependent upon the growing power and precision of scientific instruments and measurements.
+
+This development of mechanics from Galileo to Newton is perhaps the best illustration of the method of scientific progress. Upon a vast basis of accurate descriptive knowledge, erected partly by Tycho Brahe and partly by earlier astronomers, observations with instruments of precision and high power, quantitative experiments, and finally mathematical calculations produced in little more than half a century a work which it taxes the highest powers of the specially trained human mind to understand, and which has withstood all criticism for two centuries, the most critical in history.
+
+
+
+
+
+HARVEY AND THE CIRCULATION OF THE BLOOD
+
+
+
+Only less important than that of mechanics was the development of biology in the seventeenth century. William Harvey, supported by the excellent work of anatomists that had begun with Vesalius, but held back by many vestiges of the old superstitious belief in authority and the garbled teachings of Hippocrates and Galen, in the early years of the century discovered the circulation of the blood.[10] After long and most admirable investigations and self-criticism, in the year 1628 he gave this discovery to the world.
+
+It is impossible to imagine a more illuminating contrast between the false learning of the Middle Ages and the sound positive knowledge of modern times than is presented in Harvey's book. For at almost every point the work of Harvey himself has quite as much the modern flavor as that of Newton. The introduction presents the old traditional views on the physiological functions of heart and lungs, and bewilders with its meaningless play with words. There follow upon this the simplest descriptions of observations and experiments, and the soundest reasoning from such positive knowledge, till one feels that he has passed from a dream into reality.
+
+The work of Harvey, like so much of the work of great Englishmen, was isolated, and the full development of biology came somewhat later, in mid-century and thereafter. In this later growth, aided by the microscope and the principles of mechanics, the studies of Swammerdam, Grew, Malpighi, Redi, Borelli, Leeuwenhoek, and others, provided many important data in the most widely different departments of biology. But natural history lacked the great foundation of accurate descriptive knowledge, arranged in order, that astronomy possessed, and, as a result much of the great work which the biological renaissance began was interrupted for a century. Among the feats of seventeenth-century biology were microscopical studies of the anatomy of both plants and animals (Nehemiah Grew, Malpighi, Leeuwenhoek), the beginnings of embryology (Harvey, Swammerdam), mechanical physiology (Borelli) including recognition of the nature of reflex action by Descartes, experimental studies tending to overthrow belief in spontaneous generation (Redi), and even observations on the physiological action of poisons.
+
+In this century, in spite of the admirable work of Robert Boyle, somewhat overestimated in his own day however, chemistry languished under the sway of a false theory. Similarly, heat, electricity, and magnetism were of no great importance, unless the magistral work on magnetism of William Gilbert, physician to Queen Elizabeth, published in 1600, be reckoned.
+
+Two other departments of physical science, however, the study of atmospheric pressure and optics, were more fortunate. Torricelli and Viviani, pupils of Galileo, Otto von Guericke, Pascal, and Boyle investigated the barometer and the pressure of gases and worked up the fundamental conclusions. Optics was investigated by no less men than Newton and Huygens, and at their hands underwent a wonderful practical transformation. But this subject requires a peculiarly subtle theoretical foundation, and the times were not yet ripe even for a Newton to enter the true path of theoretical speculation.
+
+
+
+
+
+THE EIGHTEENTH CENTURY
+
+
+
+The great result of seventeenth-century science was to show the world that simple and exact laws of nature can be discovered. At the time of their discovery the most important thing about Galileo's law of falling bodies and Newton's "Principia" was their amazing novelty. Familiarity with such results of science has bred the modern contempt for superstition and anti-intellectual views concerning the phenomena of nature.
+
+
+
+It must be confessed, however, that the immediate results of man's new-found confidence in the intellect were often very unfortunate. For there can be little doubt that it was the successes of the Newtonian dynamics and of mathematical analysis which gave the philosophers of the eighteenth century their assurance of the possibility of like simple, exhaustive, accurate, positive, and wholly satisfactory treatments of the most complex of human affairs, including economics and politics, to say nothing of the biological sciences. Vain efforts in such directions consumed much of the best energy of the century, and such striking failures tended to obscure the real progress of knowledge when more modest or at least more simple problems were involved.
+
+There were three principal tasks for eighteenth-century science. The organization of scientific men which had been begun in the preceding century with the Royal Society of London and the Académie des Sciences of Paris had to be widened and enlarged. The work of Newton had to be evolved and spun out finer and finer with the aid of a more and more flexible mathematical art. Above all, the description of nature had to be extended in every direction and classified, as the basis of further progress. In promoting the organization of science Leibnitz is the great figure. In the development of mathematical physics there are to be noted the Bernoulli family, Euler, Lagrange, and Laplace. In natural history Linnaeus stands out preeminent, though Buffon must not be forgotten, and, as the century nears its close, biologists in the modern sense begin to appear.
+
+One achievement of the century could not be foreseen—the creation of scientific chemistry by Lavoisier, aided by Scheele, Priestley and others, a deed hardly second to that of Newton and Galileo in its importance of science and civilization, and far the most important scientific advance of a hundred years.
+
+
+
+
+
+THE NINETEENTH CENTURY
+
+
+
+The last decades of the eighteenth century and the first of the nineteenth were a period of profound change politically, socially, economically, and industrially, and not less scientifically. The scientific renaissance had come in the seventeenth century and culminated in Newton. The succeeding period had sufficed to develop his immortal work and to collect a vast array of facts in the descriptive sciences. At the same time the spirit of positive knowledge had been applied to the steam engine and the arts, and in very different directions had influenced the work of Voltaire, Rousseau, Gibbon, Adam Smith, and many others. However they may have differed among themselves, all these men felt the new forces, and responded to them with novel criticism of religion, society, history, and political economy.
+
+Lavoisier had provided the instruments and methods for a revolution in chemistry quite as great as Newton's in physics. But chemistry differs very greatly from physics in the applicability of mathematics, and a vast experimental edifice had to be raised before, toward the end of the nineteenth century, anything like the completeness of the Newtonian mechanics could be attained in the younger science. Moreover the atomic theory had to be developed, had to be interwoven with the kinetic theory of gases which sees the molecules in endless motion, had to be extended with the help of geometry, before this was possible. Still, a new tendency had formed, which now has become one of the steadiest streams of scientific progress.
+
+Following upon the work of Franklin and Coulomb and many others, the discoveries of Galvani and Volta, of Oersted and Ampere, and above all, of Faraday,[11] in electricity, providing batteries and currents, showing the relationship of electrical to magnetic, chemical, optical, mechanical, and thermal phenomena, constituted another tendency, and both of these have had a profound influence upon the arts. Young and Fresnel created a new science of light. Heat became yearly more important with the development of the steam engine and the growth of physiological and electrical science. The work of Sadi Carnot, Mayer, Joule, Helmholtz,[12] Lord Kelvin,[13] and others led, in the middle of the century, to the principles of thermodynamics, and to the laws of the conservation and degradation of energy.
+
+
+
+
+
+THE BIOLOGICAL SCIENCES
+
+
+
+Microscopical anatomy was revived and, advancing through the work of many trained observers, led to the recognition of the cell as the morphological element of living things, with this as a basis, to the systematic development of the whole of histology; and so to a new embryology and pathology. Thus the names of Schleiden, Schwann, Von Baer, and Virchow have become immortal.
+
+Rigid ideas based upon classification, which had long tottered before the assaults of Lamarck, Goethe, Erasmus Darwin, Geoffroy Saint-Hilaire, and others, finally fell before Charles Darwin's[14] triumphant conception of natural selection by survival of the fittest, perhaps the most influential idea upon the thought of his time that has ever been put forward by any man. Out of this have grown the study of heredity and, partly through the efforts of Darwin's cousin, Francis Galton, a new doctrine of perfectibility.
+
+In another department of biology, the study of the phenomena of digestion, fermentation, putrefaction, etc., after varying fortunes, culminated in Pasteur's[15] discovery of the role of micro-organisms, confirming the views of Redi and Swammerdam against spontaneous generation. The results of Pasteur's discoveries have now swelled into the greatest material benefit ever conferred by one man upon his fellows. They have led to antitoxins, immunity, and the greater part of preventive medicine, as well as to antisepsis and asepsis (Lister),[16] and so to the principal triumphs of surgery.
+
+
+
+
+
+THE ORGANIZATION OF RESEARCH
+
+
+
+Experimental methods, guided by mechanics, optics, heat, electricity, and chemistry, were now systematically applied to physiology, then to psychology, and, with the help of the cellular hypothesis and the sciences of embryology, evolution, heredity, immunity, etc., they have transformed biology.
+
+Everywhere, if other mathematical methods fail, the statistical method is being applied and in suitable cases, as, for example, life insurance, with great success; thus literally bringing order out of chaos.
+
+Meantime the world has learned that science pays. Accordingly professorships have multiplied, societies have become more numerous, journals are endowed, institutes of research established, the Nobel prizes founded, and a livelihood is provided for large number of workers.
+
+The number of working scientists, if not their quality, has enormously increased. An army has been organized and disciplined, and an amount of work which can scarcely be imagined has been produced. Scientific literature has now become a flood that has to be canalized with the help of special journals of various descriptions devoted solely to its review, description, and orderly classification, in order that it may be utilized at all.
+
+The forward march of science has now become inevitable, like that of civilization itself. This vast army of workers are engaged, with no stake in the outcome, with no concern for the influence of their work upon church or state or any other human institution or interest, according to known and tried and proved rules, by description, measurement, experiment, and mathematical analysis, in multiplying our reliable, positive knowledge of the world around us. Year by year this knowledge grows, by leaps and bounds when commanded by genius, slowly and painfully at the hands of most men, but steadily and surely always.
+
+
+
+
+
+SCIENCE AND THE STATE
+
+
+
+One of the principal results of the extension of science is its incorporation with the state. Astronomers royal have existed for three centuries, but to-day we have Departments of Agriculture with many scientific bureaus, and we badly need Departments of Public Health. Moreover, the vast increase of knowledge of a highly technical character has made it impossible for the executive, the legislative, and the judicial departments of government even to have an intelligent opinion regarding much with which they must deal. Hence the expert is acquiring an importance which is scarcely guessed even by most thoughtful persons, and government by expert commissions and expert advisers of the legislature and the judiciary appear to be inevitable features of the future state.
+
+
+
+
+
+THE GROWTH OF SPECIALIZATION
+
+
+
+The main currents of nineteenth-century science have produced more and higher specialization than ever before. Descartes was philosopher, scientist, and mathematician; some of the great men of the eighteenth century were hardly less so. Even through a large part of the nineteenth century many of the greater men ranged widely over the field of science and mathematics. To-day the force of circumstances has largely changed all that. The chemist is likely to look upon the physicist, or even the physical chemist, with suspicion on account of his mathematical interests. On the other hand, the mathematician, unlike Newton, Euler, and Gauss, is commonly no longer a physicist at all. There are to-day very few men who possess even a superficial acquaintance with all the principal departments of science, and between the work of the astronomer, on the one hand, and that of the anatomist, on the other, there is perhaps no closer relationship than the fact that both employ optical instruments in their researches.
+
+The nineteenth century will ever be known in history for at least two of its scientific achievements—the unification of our knowledge of matter, energy, and life, and the final organization of the army of scientific workers, whereby discovery ceased to be dependent solely upon the individual and became a part of the business of humanity at large, at length and for the first time systematically undertaken.
+
+
+
+
+
+THE UNIFICATIONS OF SCIENCE
+
+
+
+1. Conservation of Energy
+
+
+
+The middle of the nineteenth century witnessed the discovery of all three of the great unifications of science. These are the unification of energy by the discovery of the principle of the conservation of energy, the unification of matter by the discovery of the periodic system, and the unification of life by the work of Charles Darwin.
+
+Not for decades after Bolton and Watt, as the result of commercial necessity, introduced the idea of measuring energy in horsepower, was the real nature of the relationship between heat and mechanical power critically examined, save once in a quickly forgotten investigation by Sadi Carnot. But at length the speculations and calculations of Julius Robert Mayer, the admirable experimental researches of Joule, and the profound studies of Helmholtz and others established the principle of the conservation of energy[17]—in short, demonstrated the proposition that energy is one and indestructible, however it may manifest itself as heat, or light, or electricity, or otherwise.
+
+2. Periodicity
+
+
+
+Somewhat later the work of Newlands, Lother Meyer, and Mendeléeff brought to light an extraordinary series of relationships, periodically recurring properties, among the elements. It would be impossible briefly to explain this relationship, but a simple analogy may serve to show its nature.
+
+11 12 13 14 15
+
+21 22 23 24 25
+
+31 33 34 35
+
+41 42 43 45
+
+51 52 53 54 55
+
+
+
+
+
+Giving the numbers above arranged, there can be no doubt, first, that they have been correctly arranged, and secondly, that the numbers 32 and 44 are missing, but have a place in the table. In other words, it is possible to predict the "properties" of the two missing numbers. In like manner, the studies of Mendeléeff showed similar connections among the elements. These could be arranged, as he showed, in the order of their atomic weights, in a table very similar to the above, in which the variation in properties was regular and periodically recurrent, but with certain gaps in the classification. Judging from the elements surrounding such gaps, Mendeléeff predicted the properties of the missing elements in certain cases in which the missing elements have now been supplied by chemical research. The results have invariably confirmed the Russian chemist's predictions, as may be seen from the following data concerning the element germanium: Prediction Observation
+
+Atomic weight 72.0 72.3
+
+Specific gravity 5.5 5.469
+
+Atomic volume 13.0 13.2
+
+Specific gravity of oxide 4.7 4.703
+
+Boiling point of chloride Less than 100° 86°
+
+Specific gravity of chloride 1.9 1.9
+
+Specific gravity of ethyl compound 0.96 Lower than water
+
+
+
+Thus it has become clear that the elements are all related to one another. It is not known how to explain this relationship—perhaps they have been evolved in an orderly manner from something else—but, at all events, matter is not only indestructible (Lavoisier), but it makes up a unitary system. To-day we feel sure that we are acquainted with nearly all the stable varieties of matter that exist in the universe, though of course there remain a great variety of arrangements of this matter which are unknown to us.
+
+3. Biological Evolution
+
+
+
+The only well-known phenomenon that cannot be completely described in terms of matter and energy is life, with its peculiar characteristics of consciousness and thought. In the year 1859 biology yielded to the unifying idea of Charles Darwin. Many had previously suspected that all living things are blood relations; the discoveries of embryologists in particular had proved that the similarities among living things are far more profound than had been formerly realized. But Darwin provided a plausible explanation of the development of more complex beings by a continuous evolutionary process, and this led to the world's final decision in favor of the hypothesis of transformation.
+
+It is possible that some of Darwin's hypotheses may in the end be discarded, but it appears to be wholly unlikely that the world will ever give up its belief in the evolution of organic beings, in all their multitudinous forms, from earlier and simpler types, and probably originally from one or more exceedingly simple forms.
+
+Finally, the change in the relation of science to civilization, accomplished in the nineteenth century, marks a new epoch in history. For the first time humanity has systematically undertaken the task of conquering the environment. A new organ of the social body, like the financial or the military, has been created and has assumed relations with the other parts of the great organism of modern society.
+
+System replaces chance in the greater part of human affairs, manufacturing, warfare, medicine, commerce itself, have become "scientific"; they advance steadily, ruthlessly, and carry man with them; whither he cannot guess.
+
+
+
+
+
+↑ See Harvard Classics, viii, 265-266, for another translation of this chorus.
+
+↑ H. C., xxxviii, 364-382, and Lecture IV in this course.
+
+↑ Bacon's "Novum Organum," Bk. I, lxiii.
+
+↑ H. C., xxxix, 52-57.
+
+↑ H. C., xxxviii, 62ff.
+
+↑ H. C., xxxiv, 5ff.
+
+↑ H. C., xxxix, 116ff.
+
+↑ Bergson, "Creative Evolution," translated by Mitchell, p. 335.
+
+↑ H. C., xxxix, 150ff.
+
+↑ H. C., xxxviii, 62ff.
+
+↑ H. C., xxx, 7-170.
+
+↑ H. C., xxx, 173-248.
+
+↑ H. C., xxx, 251ff.
+
+↑ "Origin of Species," in H. C., xi.
+
+↑ H. C., xxxviii, 273-382.
+
+↑ H. C., xxxviii, 257.
+
+↑ H. C., xxx, 173 ff.
+
+
+
+
+
+About this digital edition
+
+
+This e-book comes from the online library Wikisource. This multilingual digital library, built by volunteers, is committed to developing a free accessible collection of publications of every kind: novels, poems, magazines, letters...
+
+We distribute our books for free, starting from works not copyrighted or published under a free license. You are free to use our e-books for any purpose (including commercial exploitation), under the terms of the Creative Commons Attribution-ShareAlike 4.0 Unported license or, at your choice, those of the GNU FDL.
+
+Wikisource is constantly looking for new members. During the transcription and proofreading of this book, it's possible that we made some errors. You can report them at this page.
+
+The following users contributed to this book:
+
+Laverock
+
+P. S. Burton
+
+Mattisse
+
+Billinghurst
+
+ShakespeareFan00
+
+Beeswaxcandle
+
+Londonjackbooks
+
+Mu301
+
+EncycloPetey
+
+廣九直通車
+
+
+
+
+

@@ -1,0 +1,122 @@
+The Harvard Classics Vol. 51 — Physics and Chemistry
+
+
+					Lawrence Joseph Henderson
+
+
+
+
+
+Exported from Wikisource on September 29, 2025
+
+
+
+
+
+III. PHYSICS AND CHEMISTRY
+
+
+
+By Professor Lawrence J. Henderson
+
+
+
+THE history of physical science in the ancient world is marked by few notable results. The monochord, earliest of scientific apparatus, led to the discovery of the elements of harmony; geometrical optics in its simplest form was developed; Hero of Alexandria and others familiarized themselves with some of the phenomena of steam and air pressure; even Aristotle, whose influence in this department was on the whole so harmful during two millenniums, possessed much curious and interesting information. But, apart from the great work of Archimedes in mechanics, there is little that bears the imprint of genius in the physics and chemistry of antiquity. Most of the knowledge of the time was no better than a collection of rules of the various trades, such as dyeing, for instance.
+
+
+
+
+
+THE ACHIEVEMENTS OF ARCHIMEDES
+
+
+
+Archimedes established the science of statics. He discovered the law of the lever, that unequal weights are in equilibrium when their distances (from the fulcrum) are inversely proportional to their weights; he developed the idea of center of gravity, and discovered rules concerning it; and he discovered the laws of floating and immersed bodies, including the so-called principle of Archimedes, which enabled him, as the story goes, by weighing Hiero's crown in air and then in water, to detect that the goldsmith had debased the metal. This work of Archimedes, together with his remarkable mathematical feats, marks him as one of the mightiest of human intellects, fully worthy of a place among the greatest of the Greeks.
+
+But, in spite of Archimedes, it was in fragmentary and disjointed form that the physical science of antiquity was transmitted without important change through the Middle Ages to the Modern World. We have already seen somewhat of the additions which the seventeenth century contributed, especially in dynamics, from Galileo to Newton. It does not appear that, apart from the chemical work of Lavoisier, the eighteenth century provided much of the very highest novelty and value in this field. Perhaps the researches of two Americans, Benjamin Franklin and Benjamin Thompson, who became Count Rumford, in electricity and in heat respectively, are among the best which the century affords, as they are at the summit of all American scientific work.
+
+
+
+
+
+LAVOISIER AND THE RISE OF MODERN CHEMISTRY
+
+
+
+Lavoisier's achievement consisted in his recognition of the fact that weight is neither increased nor diminished in chemical changes, and in the elevation of this discovery, which has since been many times confirmed with ever-increasing accuracy, into the guiding principle of chemical investigation, the law of conservation of mass. This advance involved the introduction of the balance as the chief instrument of chemical research. Lavoisier's great success depended, further, upon the fact that he chose the process of oxidation and reduction (the reverse of the reaction of oxidation) for study. Not only is oxygen the most active of chemical elements, if both intensity and variety of chemical behavior be considered, and far the commonest upon the earth's surface, but also the most important chemical processes are reactions of oxygen.
+
+The partial tearing off of oxygen from the carbon of carbonic acid and the hydrogen of water is the first step in the formation of all organic substances in the plant, and the recombination of oxygen with plant products the chief chemical activity of the animal. All this and much more Lavoisier recognized, and thereby revealed the true nature of another great phenomenon of nature. These investigations also disclosed, in the sequel, the chief source of all the energy which is available for the purposes of man.
+
+It is only the energy stored up in the plant (originally the energy of the sunlight shining upon the green leaf of the plant and transformed by the action of chlorophyll) which is contained in all coal, wood, all kinds of oil, including petroleum, alcohol, in short every fuel. And it is exclusively by the union of the fuels with oxygen once more to form water and carbonic acid that this energy is liberated, as in the human body itself, and utilized by man.[1] The resulting water and carbonic acid can then be used over again by the plant. The nature of this cycle of matter was clearly recognized by Lavoisier. This is the basis of nearly all our industry and commerce.
+
+
+
+
+
+THE WAVE THEORY OF LIGHT
+
+
+
+The next great achievement of physical science is commonly regarded as the establishment of the wave theory of light[2] by Young and Fresnel. This view had been put forth in the seventeenth century in a very weighty form by Huygens, and it had even been held before him by the versatile Hooke. On the assumption that light is propagated as undulations, Huygens had given a most satisfactory account of the laws of reflection and refraction; and he had had good success even in his application of the theory to the very difficult problem of double refraction in Iceland spar. Huygens, however, did not succeed in establishing his hypothesis, and Newton's preference for the so-called emission or corpuscular theory of light weighed heavily against the theory of waves.
+
+Newton himself never quite rejected the wave theory of light, and, in truth, at many points in his writings seems strongly to favor it. But there are propositions in his works which led his followers to the positive assertion of the emission hypothesis. The great mathematician Euler, on the other hand, adopted, in the eighteenth century, the undulatory theory. Between his purely theoretical views and the Newtonians there was great controversy.
+
+Again at the beginning of the nineteenth century the undulatory theory was set forth, this time, however, on the basis of exact observations upon the colors of thin plates, by Thomas Young, one of the most versatile men of genius of the country. The contributions of Young were destined to prevail, but, in spite of their soundness, they were treated with contempt by his contemporaries and forgotten for twenty years, until revived by the confirmations of Fresnel. Fresnel, moreover, gradually developed the mathematical theory of this intricate subject, and at length, supported by Arago, he won over the scientific world to the belief in light waves and the luminiferous ether with its strange and paradoxical characteristics.
+
+
+
+
+
+THE WORK OF FARADAY
+
+
+
+Of all the results of scientific experimentation, those of Faraday probably contributed most to the recognition of the connection between the different manifestations of energy, which was a necessary preliminary to the discovery of the principle of the conservation of energy.[3] This is but one of the merits of Michael Faraday, whom many have thought the very greatest of scientific experimenters, and who was certainly one of the noblest and most inspired of men. The work of Faraday is of a richness and variety that baffles description. He was interested in every department of physical science, and he was a great discoverer wherever his interests rested. His earliest work was chemical, following that of his teacher Davy. Here he discovered new compounds of carbon, for the first time liquefied several gases, studied the diffusion of gases, the alloys of steel, and numerous varieties of glass. Next he turned to electricity, his chief interest thenceforth. With a voltaic pile he decomposed magnesium sulphate. This led later to his fundamental electro-chemical law. Choosing purely physical problems, he for the first time produced the continuous rotations of wires and magnets round each other, and in 1831 he discovered induced currents. The greatness of his work in this department has been explained by the most competent of all critics, Clerk Maxwell.
+
+"By the intense application of his mind he had brought the new idea, in less than three months from its first development, to a state of perfect maturity. The magnitude and originality of Faraday's achievement may be estimated by tracing the subsequent history of his discovery. As might be expected, it was at once made the subject of investigation by the whole scientific world, but some of the most experienced physicists were unable to avoid mistakes in stating, in what they conceived to be more scientific language than Faraday's, the phenomena before them. Up to the present time, the mathematicians who have rejected Faraday's method of stating his law as unworthy of the precision of their science have never succeeded in devising any essentially different formula which shall fully express the phenomena without introducing hypotheses about the mutual action of things which have no physical existence, such as elements of currents which flow out of nothing, then along a wire, and finally sink into nothing again.
+
+"After nearly half a century of labor of this kind, we may say that, though the practical applications of Faraday's discovery have increased and are increasing in number and value every year, no exception to the statement of these laws as given by Faraday has been discovered, no new law has been added to them, and Faraday's original statement remains to this day the only one which asserts no more than can be verified by experiment, and the only one by which the theory of phenomena can be expressed in a manner which is exactly and numerically accurate, and at the same time within the range of elementary methods of exposition."[4]
+
+
+
+↑ See Faraday on the "Chemical History of a Candle" in H. C., xxx, 86-170.
+
+↑ See Kelvin's account of the theory in H. C., xxx. 251-273.
+
+↑ See Faraday on "Forces of Matter," H. C., xxx, 7-85.
+
+↑ "Encyclopædia Britannica," 9th ed., ix, 30.
+
+
+
+
+
+About this digital edition
+
+
+This e-book comes from the online library Wikisource. This multilingual digital library, built by volunteers, is committed to developing a free accessible collection of publications of every kind: novels, poems, magazines, letters...
+
+We distribute our books for free, starting from works not copyrighted or published under a free license. You are free to use our e-books for any purpose (including commercial exploitation), under the terms of the Creative Commons Attribution-ShareAlike 4.0 Unported license or, at your choice, those of the GNU FDL.
+
+Wikisource is constantly looking for new members. During the transcription and proofreading of this book, it's possible that we made some errors. You can report them at this page.
+
+The following users contributed to this book:
+
+Londonjackbooks
+
+George Burgess
+
+P. S. Burton
+
+Kathleen.wright5
+
+Billinghurst
+
+Laverock
+
+Beeswaxcandle
+
+
+
+
+

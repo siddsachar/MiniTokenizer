@@ -1,0 +1,128 @@
+The Harvard Classics Vol. 51 — Astronomy
+
+
+					Lawrence Joseph Henderson
+
+
+
+
+
+Exported from Wikisource on September 29, 2025
+
+
+
+
+
+II. ASTRONOMY
+
+
+
+By Professor Lawrence J. Henderson
+
+
+
+ASTRONOMY was destined to liberate the modern intellect from the bondage of the Middle Ages, and by teaching man that the earth is not the fixed center of the universe, but a satellite of one among many stars, to shake the confidence with which he had long regarded the universe as made for him, the earth for his abode, the heavens for his enjoyment. This is the great contribution of astronomy to thought; to civilization it has also contributed some of the most important advances, such as an accurate calendar, the standard of time, and the exact measure of time, sound methods of navigation and geography; and commencing earlier than all the other sciences, it has built up one of the most admirable structures of scientific knowledge.
+
+Astronomy was long the leader among the sciences, and as such gave to the world trigonometry, in part logarithms, and Newton's dynamics. But though astronomical progress has by no means ceased, the accelerated growth of other sciences—first physics, then chemistry, and of late biology—has rendered it less conspicuous. The continued importance of astronomy is, however, well illustrated by the marvelous results of spectrum analysis, while to-day the study of nebulae and of the physics of the sun possesses the highest interest.
+
+
+
+
+
+HIPPARCHUS AND THE PTOLEMAIC SYSTEM
+
+
+
+The principal results of ancient astronomy go by the name of Ptolemy (the Ptolemaic system), but are mainly due to the labors of Hipparchus. Hipparchus knew the latitude and longitude of 150 fixed stars within a fraction of a degree, when, in the year 134 B. C., a new star of the first magnitude suddenly appeared. Encouraged by this extraordinary event, he applied himself diligently to astronomical measurements, establishing the position of more than 1,000 fixed stars. It was no doubt this sound basis of accurate quantitative data, and the familiarity with his subject which such work provided, that led to his great achievements. He discovered the precession of the equinoxes, and measured it with considerable accuracy; he measured the length of the day with an error of but six minutes; but his great achievement was a mathematical device whereby the position of the sun and, with less accuracy, the positions of the moon and planets could be calculated.
+
+The essential features of this device consisted in imagining the sun to move in a circle of which the earth was not quite the center; this is the excentric of ancient astronomy. Another more difficult idea was that of epicycles. These two mathematical ideas did very good service in the work of Hipparchus, for the practical purposes of the calendar. But later, in the hands of Ptolemy, and in the succeeding centuries, they ceased to be arbitrary assumptions, or even mere theories, and in the Middle Ages became dogmas which were held most tenaciously and blindly. As astronomical knowledge slowly increased, it became necessary to make the theory more and more complex in order to fit the facts, and, long before the work of Copernicus, astronomical theories had reached a degree of absurdity that could not have endured in any other age. Yet more than one of the astronomers of antiquity had believed that the earth moves, either rotating on its axis, or revolving round the sun, or both.
+
+
+
+
+
+THE COPERNICAN THEORY
+
+
+
+Copernicus was born at Thorn in Poland (1473) of a German mother. Educated first in medicine, he studied astronomy in Vienna, and he was later in Italy (1495–1505) at the height of the Renaissance. When he returned home, his uncle, the bishop of Ermeland, presented him with a clerical position at Frauenburg. Here for forty years he labored to bring astronomical calculations and observations into harmony, and finally, long after he had become convinced of the soundness of the heliocentric view, published the work[1] which marks the first great step in modern science, a work which he saw for the first time on his deathbed in 1543.
+
+
+
+Copernicus showed that all the difficulties which the movements of the planets present would become very much less if the moon were left the only satellite of the earth, and the earth itself and all the planets were assumed to move around the sun. He did not prove—in truth being wise and realizing his own limitations, he did not seek to prove—this hypothesis, but only to present the reasons why it must appear the most probable explanation of the principal astronomical phenomena.
+
+The new doctrine made converts slowly. At first it was opposed by the professional astronomers, with whose time-honored habits it interfered, and who were, for the most part, not competent to understand it. Later the opposition of the great Tycho Brahe worked against it for many years. Still later the opposition of theologians effectually cut off many converts, most notably Descartes. But the discovery of Kepler's laws completely destroyed the Ptolemaic system, and must have convinced nearly all reasonable men of the correctness of that of Copernicus. These famous laws are as follows: The line joining the sun with a planet sweeps over equal areas in equal periods of time. Every planet moves in an ellipse with the sun at one focus. The squares of the times of the revolution of any two planets are in the same ratio as the cubes of their mean distances from the sun.
+
+
+
+
+
+GALILEO AND NEWTON
+
+
+
+The next important step in the growth of knowledge of the solar system was Galileo's study of the laws of fall and the composition of two kinds of motion, like fall and projection, as in the case of a projectile. This was followed by Newton's magnificent extension of gravity from the earth to the whole of space, with the assumption and proof that the intensity of gravitational attraction varies inversely as the square of the distance.
+
+These ideas, combined with Kepler's laws, led at once to the theory of planetary motion and its proof, in Newton's "Principia."[2] The motion of the planets appeared as the resultant of their tendency to go on in the direction in which they were moving (inertia), and their tendency to fall to the sun (gravitation). The problem yielded completely, so far as two bodies are concerned, to the mathematical genius of Newton.
+
+Still the revolution of the earth about the sun was not, by many astronomers, considered to be proved, while some even denied it. For if the earth really revolved about the sun, the relative positions of the stars ought not to appear the same to us from different parts of the orbit. Yet no difference in their places at the two solstices could be detected, although the stands of the observer were separated by a hundred and eighty million miles in the two instances.
+
+James Bradley was the first person to obtain important results from the investigation of this problem of parallax. He found, not, to be sure, a periodic change of the apparent position of the stars that could be explained as parallax, but a different change of position, quite unexpected. This he called aberration, and recognized that it was due to a composition of the motion of the earth and of the light from the star itself, which is analogous to the entry of rain falling straight down, yet into the open front of a moving carriage. Here, nevertheless, was a proof, the more valuable because unexpected, of the earth's motion. It was not until 1837 that Bessel finally measured the parallax of a fixed star, and this finally ended the problem. The whole difficulty had been due merely to the enormous distance which separates us from the nearest of the stars.
+
+
+
+
+
+SPECTRUM ANALYSIS
+
+
+
+A new period in the history of astronomy followed upon the discovery of spectrum analysis by Bunsen and Kirchhoff. At the outset the chemical composition of the sun revealed itself. Later that of the stars became known; still later it became possible to classify the stars on the basis of their spectra, and at length it has become evident that variations in spectra are at least largely due to differences in the age of suns (the length of time during which cooling has gone on), that all stars are probably very much alike both chemically and physically, and that our sun is probably very much like all other stars. The geological doctrine of uniformity has been extended to astronomy.
+
+This results in renewed interest in the nebular hypothesis and in novel speculations regarding the origin of the solar system. In like manner, the problem of the physicochemical nature of the sun, and of the processes which take place within it, assumes great interest; for, if the universe be homogeneous, we may extend our local discoveries to the utmost confines of space. These, however, have themselves turned out not so unapproachable as a few years ago they seemed to be. Certain peculiarities of star spectra enable astronomers to judge of the motion of stars both relative to the earth and in rotation. The behavior of variable stars can also in part be accounted for by ingenious hypotheses.
+
+Thus the old science preserves its youth and promises to continue its contributions to the growth of human understanding.
+
+
+
+↑ See his Dedication of his "Revolutions of Heavenly Bodies," Harvard Classics, xxxix, 52–57.
+
+↑ H. C., xxxix, 150, and see General Index in vol. 1, under Newton.
+
+
+
+
+
+About this digital edition
+
+
+This e-book comes from the online library Wikisource. This multilingual digital library, built by volunteers, is committed to developing a free accessible collection of publications of every kind: novels, poems, magazines, letters...
+
+We distribute our books for free, starting from works not copyrighted or published under a free license. You are free to use our e-books for any purpose (including commercial exploitation), under the terms of the Creative Commons Attribution-ShareAlike 4.0 Unported license or, at your choice, those of the GNU FDL.
+
+Wikisource is constantly looking for new members. During the transcription and proofreading of this book, it's possible that we made some errors. You can report them at this page.
+
+The following users contributed to this book:
+
+Laverock
+
+P. S. Burton
+
+Mattisse
+
+Beeswaxcandle
+
+Billinghurst
+
+Londonjackbooks
+
+Mike s
+
+Mu301
+
+Innotata
+
+
+
+
+

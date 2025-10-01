@@ -1,0 +1,108 @@
+The Harvard Classics Vol. 51 — Kelvin on "Light" and "The Tides"
+
+
+					William Morris Davis
+
+
+
+
+
+Exported from Wikisource on September 29, 2025
+
+
+
+
+
+V. KELVIN ON "LIGHT" AND
+
+"THE TIDES"
+
+
+
+By Professor W. M. Davis
+
+
+
+SCIENTIFIC essays, like those by Lord Kelvin on Light[1] and The Tides,[2] should be read several times by the studious reader, and each time from a different point of view. In the first reading, the reader seeks for information offered by the author; in the second, the reader examines the scientific method by which the author has gained his information; in the third, the reader's attention should be directed to the style of presentation adopted by the author in telling his story. After an attentive study of Kelvin's essays from these different sides, many a reader will find that he has made a distinct intellectual advance.
+
+
+
+
+
+THE ESSAYS AS STATEMENTS OF SCIENTIFIC RESULTS
+
+
+
+The first reading of either essay will disclose some of the most marvelous results that have been reached by scientific investigation. For example, it has been discovered that light is of an undulatory nature; that the vibrations of light quiver at the rate of several hundred millon of million times a second; that light is transmitted over interplanetary distances with a velocity of nearly 200,000 miles a second; and that for the transmission at such a speed through what seems to us to be empty space, as between the sun and the earth, there must be a continuous, extremely tenuous, and highly elastic medium, all pervading and universally extended, to which the name, luminiferous ether, is commonly given. It is of course not to be expected that all these and many other results, physical, geometrical, and numerical, can be easily acquired; some paragraphs must be gone over more slowly than others, and many of them should be reviewed more than once; some are difficult of comprehension because they are without the vivid experiments by which they were illustrated in the original lecture; and others because they are compressed into terse statements without explanation. But at the end of what is here called the "first reading," many of the conclusions announced regarding the nature of light should be fairly familiar. Similar examples may be drawn from the lecture on the tides; the larger share of mathematical considerations here encountered may make the second essay more difficult than the first; if some readers do not clearly understand, for example, the statement regarding diurnal inequality (p. 291), they may be excused, for the statement is very brief; similarly, the account of the tide machines (pp. 293–297) is too dense to be really comprehended by a non-mathematical reader, previously uninformed on such matters as harmonic analysis.
+
+
+
+
+
+THE ESSAYS AS EXAMPLES OF SCIENTIFIC METHOD
+
+
+
+The second reading of the essays, directed to an examination of the scientific method employed by the author, should have for its most valuable result a better appreciation of the nature of "theorizing" than most persons possess. The immediately observable elements of such phenomena as light and tides are called "facts"; but an intelligent inquirer is soon persuaded that the facts of observation are really only a small part of the total phenomena. For example, some invisible factors must determine that the noonday sky overhead is blue, and the horizon sky near sunset or sunrise is yellow or red. Or, some unseen factors must determine the strength of the tides and their hour of occurrence varying from day to day. How can light travel at its incredibly rapid velocity? How can the moon cause changes of sea level on the earth? The true answers to such questions would acquaint us with phenomena that, in spite of their invisibility, take place just as truly as the phenomena that we observe. Such unseen phenomena might be called "facts of inference," to distinguish them from "facts of observation." To discover the facts of inference and to demonstrate their connection with the facts of observation is the effort of all theorizing. A theory is, in brief, a statement in which the supposed facts of inference are reasonably connected with the known facts of observation. How is such a statement reached? and when it is reached, how do we know that it is right? To answer such questions fully would demand a whole treatise on scientific method, here impossible; our intention is simply to point out that an introductory understanding of scientific method, much better than none, can be gleaned by a careful second reading of Kelvin's and of the other scientific essays in this collection, with the constant effort to learn how the announced results have been attained.
+
+Notice, first, that for an active mind, it is "impossible to avoid theorizing" (p. 281). The lesson from this is to beware of those so-called practical persons who say they do not theorize; what they really do is to theorize in an unsafe, unscientific manner; for they, like everyone else, wish to understand more than they can see. The desire to theorize should not be resisted, but theorizing should be carefully cultivated and its results should be carefully held apart from those of observation. Notice, second, that, some facts of observation having been gained, the inquisitive mind at once sets about inventing schemes that may possibly include the mental counterparts of the unseen phenomena, or facts of inference, and then proceeds to determine the correctness of the inventions by certain logical devices or tests. That particular scheme is finally adopted as true which stands all possible tests. The tests are mostly experimental in the study of light; they are largely computational in the study of the tides. Notice, third, how ingenious the scientific mind must be to conceive the extraordinary schemes by which the unseen phenomena are supposed to combine with the seen, so as to make a reasonably working total process; how far these mental processes must go beyond the mere determination of visible facts by observation; how active the imagination must be to picture the invisible processes of the invented scheme; and also how free from prepossessions, how docile the scientific mind must be, in order to follow the experimental or computational demonstrations wherever they may lead! Still more important, notice how large a share of the standard content of science, as illustrated by the essays on light and tides, is made up of what are here called "facts of inference," and not simply of facts of observation.
+
+
+
+
+
+THE MERE OBSERVER versus THE THEORIZER
+
+
+
+The problem of the tides may be illustrated by a parable. Once there was a keen, unimaginative observer living on a seacoast, where a perpetual pall of clouds covered the sky, concealing the sun and moon, but where the tides, with their periodic variations, were familiar matters; he would gain a good knowledge of the facts of observation, but he would have no knowledge of their meaning as revealed by the unseen facts of inference. At the same time a philosophical hermit was living alone under the clear skies of a desert continental interior, where he was totally ignorant of the oceans and their tides, but familiar with the motions of the sun and moon, and acquainted with the law of gravitation, in accordance with which the heavenly bodies move; he might from this beginning go on with a series of inferences, or deductions, which would in the end lead him to say: "These distant bodies must exert unequal attractions on different parts of the earth, but the earth is too rigid to yield to them; if, however, a large part of the earth's surface were covered with a sheet of water, the attractions of the sun and moon would produce periodic variations in the level of such a sheet" . . . and so on. After a time, the long-shore observer sets out upon his travels and meets the hermit in the interior desert, who asks him: "Do you happen to have seen a large sheet of water, in which periodic changes of level take place?" "I have indeed," the observer exclaims, "and I was on the point of telling you about the changes of level in the hope that you could explain them; but how did you know that the changes occurred?" "I did not even know," the hermit replies, "that there was a vast sheet of water in which they could occur; but I felt sure that, if such a water sheet existed, it must suffer periodic changes of level, because . . ." The evident point of the parable is that the keen observer and the speculative hermit are both combined in a trained scientific investigator; he performs the two tasks of observation and of explanation independently, as if he were two persons; and his philosophical half finally accepts as true that particular scheme or theory which leads to the best understanding of the facts gained by his observational half.
+
+
+
+
+
+THE ESSAYS AS MODELS OF EXPOSITION
+
+
+
+The third reading is devoted to the style of presentation, and this brings the reader more closely into relation with the author. The object of the third reading is thus unlike that of the second, which considered the author in relation to his problem; while both these are unlike the first, in which the reader did not think of the author but only of the subject treated. A few leading characteristics of presentation in the first essay may be pointed out; the reader may afterward make for himself a similar analysis of the second essay. Note first that the more difficult subject of light is introduced by the analogous and easier subject of sound (pp. 252–256); this is as if the author kindly took the reader by the hand and guided him along an easy path toward a lofty summit. Note again the care which the author takes to lead the reader by easy steps from small to large numbers, and the sympathetic encouragement that he gives: "You can all understand it" (p. 258). Consider the homely illustration of the teapot (p. 259) and the large concept which it aids you in reaching. Recognize the personal touch given by the reference to the famous work of the American physicist, Langley (p. 259); and a little later to the epoch-making discovery of the spectrum by Newton. See again a homely illustration in the mention of shoemaker's wax, and with it Kelvin's quaint allusion to his Scotch birth (p. 264). Passing over several other matters, consider the care which this profound investigator, himself able to grasp the most complicated mathematical formulae, gives to illustrating the nature of ether vibrations by means of a small red ball in a bowl of jelly (p. 271).
+
+The first reading ought to excite a desire to learn more about light; the second, to understand more fully the method of science; the third, to know more intimately some of the great men of the world. Thus the careful reading of one thing creates an appetite for reading many other things: and therein lies the greatest teaching value of any reading whatever.
+
+
+
+↑ Harvard Classics, xxx, 251ff.
+
+↑ H. C., xxx, 274ff.
+
+
+
+
+
+About this digital edition
+
+
+This e-book comes from the online library Wikisource. This multilingual digital library, built by volunteers, is committed to developing a free accessible collection of publications of every kind: novels, poems, magazines, letters...
+
+We distribute our books for free, starting from works not copyrighted or published under a free license. You are free to use our e-books for any purpose (including commercial exploitation), under the terms of the Creative Commons Attribution-ShareAlike 4.0 Unported license or, at your choice, those of the GNU FDL.
+
+Wikisource is constantly looking for new members. During the transcription and proofreading of this book, it's possible that we made some errors. You can report them at this page.
+
+The following users contributed to this book:
+
+Londonjackbooks
+
+Beeswaxcandle
+
+George Burgess
+
+P. S. Burton
+
+Kathleen.wright5
+
+Billinghurst
+
+
+
+
+
